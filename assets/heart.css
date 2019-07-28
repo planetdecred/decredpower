@@ -37,6 +37,7 @@ h2 {
 a {
   color: #eafff9;
   opacity: 0.9;
+  text-shadow: 1px -2px 2px #8dae8f7d;
   font-family: monospace;
   text-decoration: none;
   line-height: -121%;
