@@ -1,6 +1,6 @@
 body {
   /* background-color: #aec7c3; */
-  background-color: #c9d8d6;
+  background-color: #a2a2a2;
   font-size: 0.8em;
 }
 
@@ -18,7 +18,7 @@ div {
 h1 {
   margin-top:-40px;
   margin-left: -30px;
-  text-shadow: -1px 1px 1px #abcca3;
+  text-shadow: -1px 1px 1px ##abcca3ba;
 }
 
 h2 {
@@ -30,7 +30,7 @@ h2 {
 
   margin-top: 12px !important;
   margin-bottom: 3px;
-  text-shadow: -1px 1px 1px #abcca3;
+  text-shadow: -1px 1px 1px #abcca39e;
   transition: 1s ease-in-out all;
 }
 
