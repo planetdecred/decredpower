@@ -1,6 +1,6 @@
 body {
   /* background-color: #aec7c3; */
-  background-color: #a2a2a2;
+  background-color: #2f2f2f;
   font-size: 0.8em;
 }
 
@@ -9,49 +9,59 @@ div {
   font-family: "HK Grotesk", Helvetica Neue, Arial, sans-serif;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
-  color: white;
-  font-size: 20px;
-  line-height: 34px;
+  color: #AAA;
+  font-size: medium;
   font-weight: 500;
+  border-collapse: separate;
+  white-space: normal;
+  line-height: normal;
+  font-weight: normal;
+  font-size: medium;
+  font-style: normal;
+  color: -internal-quirk-inherit;
+  text-align: start;
+  border-spacing: 2px;
+  font-variant: normal;
 }
 
 h1 {
+  font-size: -webkit-xxx-large;
   margin-top:-40px;
-  margin-left: -30px;
+  margin-left: -23px;
   text-shadow: -1px 1px 1px ##abcca3ba;
 }
 
 h2 {
-  font-family: arial;
-  border-top: 1px solid white;
-  border-bottom: 1px solid white;
+  font-size: 1.0em;
+  text-transform: uppercase;
+  font-family: monospace;
+  border-top: 1px solid #AAA;
+  border-bottom: 1px solid #AAA;
   width: 301px;
   margin-left:-100px;
-
+  padding-top: 2px;
+  padding-bottom: 2px;
   margin-top: 12px !important;
   margin-bottom: 3px;
-  text-shadow: -1px 1px 1px #abcca39e;
   transition: 1s ease-in-out all;
 }
 
 a {
-  color: #eafff9;
+  color: #AAA;
   opacity: 0.9;
-  text-shadow: 1px -2px 2px #8dae8f7d;
   font-family: monospace;
   text-decoration: none;
   line-height: -121%;
-  font-size: 0.6em;
+  font-size: medium;
   -webkit-transition: background-color 1s;
   -moz-transition: background-color 1s;
   -o-transition: background-color 1s;
   transition: background-color 1s;
+  border-bottom: #AAA solid 1px;
 }
 
 a:hover {
-  color: #8b8e92;
-  text-shadow: -2px 2px 2px antiquewhite;
-
+  color: #AAA;
 }
 
 #row1 a, #row2 a {
@@ -75,14 +85,14 @@ a:hover {
 }
 
 span {
-  color: #eafff9;
+  color: #AAA;
 }
 
 hr {
   position: inline;
   height: 3px;
-  color: red;
-  background-color: white;
+  color: #AAA;
+  background-color: #AAA;
   border: none;
   width: 141px;
   text-align: left;
@@ -91,7 +101,6 @@ hr {
 
 .img {
   width: 191px;
-  margin-top: -22px;
   transition: 1s ease-in-out all;
 }
 
@@ -109,12 +118,12 @@ hr {
 }
 
 #develpment-mid {
-  margin-top: -28px;
-  margin-bottom: -23px;
+  margin-top: -12px;
+  margin-bottom: -14px;
 }
 
 .head-break {
-  margin-top: -28px;
+  margin-top: -10px;
 }
 
 #mainwrapper {
@@ -140,6 +149,10 @@ hr {
   font-size: 0.7em;
 }
 
+.small-txt a {
+  border: none;
+}
+
 IFRAME {
   margin-left: -98px;
   transition: 1s ease-in-out all;
@@ -147,17 +160,17 @@ IFRAME {
 
 @media only screen and (min-width: 344px) {
   a {
-    font-size: 0.7em;
+    font-size: 1.3em;
   }
 }
 
 @media only screen and (min-width: 410px) {
   a {
-    font-size: 0.8em;
+    font-size: 1.1em;
   }
 
   #row2 {
-    top: 1144px;
+    top: 704px;
   }
 
   #row3 {
@@ -167,8 +180,8 @@ IFRAME {
 
 @media only screen and (min-width: 540px) {
   h2 {
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
+    border-top: 2px solid #AAA;
+    border-bottom: 2px solid #AAA;
     width: 180px;
     margin-left:-100px;
   }
@@ -186,15 +199,14 @@ IFRAME {
 
 @media only screen and (min-width: 574px) {
   h2 {
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
+    border-top: 2px solid #AAA;
+    border-bottom: 2px solid #AAA;
     width: 200px;
     margin-left:-75px;
   }
 
   .img {
     width: 191px;
-    margin-top: -22px;
   }
 
   #row1 a, #row2 a {
@@ -202,7 +214,7 @@ IFRAME {
   }
 
   #row3 {
-    top: 2268px;
+    top: 1459px;
     left: 50px;
   }
 
@@ -222,7 +234,7 @@ IFRAME {
 
 @media only screen and (min-width: 786px) {
   a {
-    font-size: 0.8em;
+    font-size: 1.1em;
   }
 
   .img {
@@ -230,12 +242,12 @@ IFRAME {
   }
 
   #row2 {
-    top: 155px;
+    top: 102px;
     left: 470px;
   }
 
   #row3 {
-    top: 1152px
+    top: 805px
   }
 
 }
@@ -257,6 +269,7 @@ IFRAME {
   }
 
   #row2 {
+    top: 102px;
     left: 620px;
     margin-left: -40px;
   }
@@ -273,8 +286,8 @@ IFRAME {
     font-size: 1em;
   }
   h2 {
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
+    border-top: 2px solid #AAA;
+    border-bottom: 2px solid #AAA;
     width: 500px;
     margin-left:0px;
   }
@@ -285,7 +298,6 @@ IFRAME {
 
   .img {
     width: 491px;
-    margin-top: -22px;
   }
 
   #row3 {
@@ -298,7 +310,7 @@ IFRAME {
   }
 
   #slider {
-    margin-top: 0px;
+    margin-top: 36px;
     margin-left: 0px;
   }
 
@@ -316,8 +328,8 @@ IFRAME {
 
 @media only screen and (min-width: 1262px) {
   h2 {
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
+    border-top: 2px solid #AAA;
+    border-bottom: 2px solid #AAA;
     width: 500px;
     margin-left:0px;
   }
@@ -328,7 +340,6 @@ IFRAME {
 
   .img {
     width: 491px;
-    margin-top: -22px;
   }
 
   #row3 {
