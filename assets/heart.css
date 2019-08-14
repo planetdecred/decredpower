@@ -1,6 +1,6 @@
 body {
   /* background-color: #aec7c3; */
-  background-color: #2f2f2f;
+  background-color: #091440;
   font-size: 0.8em;
 }
 
@@ -25,8 +25,9 @@ div {
 }
 
 h1 {
+  text-align: center;
   font-size: -webkit-xxx-large;
-  margin-top:-40px;
+  margin-top: -81px;
   margin-left: -23px;
   text-shadow: -1px 1px 1px ##abcca3ba;
 }
@@ -35,12 +36,13 @@ h2 {
   font-size: 1.0em;
   text-transform: uppercase;
   font-family: monospace;
+  font-weight: bold;
   border-top: 1px solid #AAA;
   border-bottom: 1px solid #AAA;
   width: 301px;
   margin-left:-100px;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  padding-top: 4px;
+  padding-bottom: 4px;
   margin-top: 12px !important;
   margin-bottom: 3px;
   transition: 1s ease-in-out all;
@@ -50,6 +52,7 @@ a {
   color: #AAA;
   opacity: 0.9;
   font-family: monospace;
+  font-weight: bold;
   text-decoration: none;
   line-height: -121%;
   font-size: medium;
@@ -68,8 +71,12 @@ a:hover {
   margin-left: -98px;
 }
 
+#row2{
+  width: 56%;
+}
+
 #row2 {
-  top: 1305px;
+  top: 623px;
   left: 123px;
   margin-left: 0px;
 }
@@ -80,8 +87,18 @@ a:hover {
 
 #row3 {
   position: absolute;
-  top: 2446px;
-  left: 26px;
+  top: 1186px;
+  left: 124px;
+  padding-bottom: 90px;
+  width: 56%;
+}
+
+#row3 a {
+  margin-left: -100px;
+}
+
+.h2-row3 {
+  width: 325px;
 }
 
 span {
@@ -115,6 +132,7 @@ hr {
 
 #stats {
   margin-left:1px;
+  width: 325px;
 }
 
 #develpment-mid {
@@ -153,32 +171,72 @@ hr {
   border: none;
 }
 
-IFRAME {
-  margin-left: -98px;
-  transition: 1s ease-in-out all;
+@media only screen and (min-width: 200px) {
+  h1 {
+    font-size: 1.6em;
+  }
+
+  a {
+    font-size: 1.3em;
+  }
+
+  #stats {
+    margin-left: -97px;
+  }
+
+  #row1 {
+    width: 187px;
+  }
 }
 
 @media only screen and (min-width: 344px) {
-  a {
-    font-size: 1.3em;
+  #row3 {
+    position: absolute;
+    top: 1096px;
+    left: 124px;
   }
 }
 
 @media only screen and (min-width: 410px) {
+  h2 {
+    font-size: 1.4em;
+  }
+
   a {
-    font-size: 1.1em;
+    font-size: 1.4em;
+  }
+
+  #row1 {
+    width: inherit;
   }
 
   #row2 {
-    top: 704px;
+    top: 636px;
+    margin-left: 2px;
   }
 
   #row3 {
-    top: 2276px;
+    top: 1204px;
+    left: 127px;
+  }
+
+  #stats {
+    margin-left: -99px;
+  }
+}
+
+@media only screen and (min-width: 437px) {
+  #row3 {
+    top: 1134px;
+    left: 127px;
   }
 }
 
 @media only screen and (min-width: 540px) {
+  h1 {
+    font-size: xx-large;
+  }
+
   h2 {
     border-top: 2px solid #AAA;
     border-bottom: 2px solid #AAA;
@@ -186,23 +244,22 @@ IFRAME {
     margin-left:-100px;
   }
 
-  #stats {
-    margin-left: 1px;
-  }
-}
-
-@media only screen and (max-width: 784px) {
-  .r1-h2 {
-    width: 325px;
+  #row2 {
+    margin-left: 0px;
   }
 }
 
 @media only screen and (min-width: 574px) {
   h2 {
+    font-size: 1.0em;
     border-top: 2px solid #AAA;
     border-bottom: 2px solid #AAA;
     width: 200px;
     margin-left:-75px;
+  }
+
+  .code2 h2 {
+    margin-left: inherit;
   }
 
   .img {
@@ -213,23 +270,41 @@ IFRAME {
     margin-left: -74px;
   }
 
+  #stats {
+    margin-left: -74px;
+  }
+
   #row3 {
-    top: 1459px;
+    top: 1025px;
     left: 50px;
+  }
+
+  #row3 a {
+    margin-left: 0px;
   }
 
   hr {
     width: 412px;
   }
 
-  IFRAME {
-    margin-left: -74px;
-  }
-
 }
 
 @media only screen and (min-width: 666px) {
   font-size: 1.3em;
+}
+
+@media only screen and (max-width: 784px) {
+  .r1-h2 {
+    width: 325px;
+  }
+
+  #row2 {
+    width:63%;
+  }
+
+  #row3 {
+    top: 1005px;
+  }
 }
 
 @media only screen and (min-width: 786px) {
@@ -242,24 +317,62 @@ IFRAME {
   }
 
   #row2 {
-    top: 102px;
+    margin-top: -9px;
+    top: inherit;
     left: 470px;
   }
 
   #row3 {
-    top: 805px
+    top: 605px;
+    margin-bottom: 0px;
+    width: 26%;
   }
 
 }
 
 @media only screen and (min-width: 939px) {
+  #row2 a {
+    margin-left: -116px;
+  }
   #row3 {
     top: inherit;
-    left: 783px;
+    left: 753px;
   }
 
   #stats {
-    width: 173px;
+    width: 233px;
+  }
+
+  h2 {
+    margin-left: -115px;
+  }
+
+  .h2-row3 {
+    width: 220px;
+  }
+}
+
+@media only screen and (min-width: 946px) {
+  #row3 {
+      top: inherit;
+      left: 725px;
+  }
+}
+
+@media only screen and (min-width: 1006px) {
+  .h2-row3 {
+      width: 251px;
+  }
+
+  #row3 {
+      top: inherit;
+      left: 753px;
+  }
+}
+
+@media only screen and (min-width: 1045px) {
+  .h2-row3 {
+      width: 232px;
   }
 }
 
@@ -269,22 +382,39 @@ IFRAME {
   }
 
   #row2 {
-    top: 102px;
-    left: 620px;
-    margin-left: -40px;
+    margin-top: -11px;
+    top: inherit;
+    left: 470px;
+  }
+
+  .h2-row3 {
+    width: 232px;
+  }
+
+  #row3 a {
+    margin-left: -75px;
   }
 
   #row3 {
-    left: 902px;
+    left: 842px;
+    margin-left: 0px;
+  }
+
+  .code2 a {
+    margin-left: -75px;
+  }
+
+  .code2 h2 {
+    margin-left: -75px;
   }
 
 }
-
 
 @media only screen and (min-width: 1142px) {
   body {
     font-size: 1em;
   }
+  
   h2 {
     border-top: 2px solid #AAA;
     border-bottom: 2px solid #AAA;
@@ -300,12 +430,29 @@ IFRAME {
     width: 491px;
   }
 
+  #row1 {
+    margin-left: 60px;
+  }
+
+  #row1 a, #row2 a {
+    margin-left: 0px;
+  }
+
+  #row2 {
+    left: 620px;
+    margin-left: -70px;
+  }
+
+  .h2-row3 {
+    width: 231px;
+  }
+
   #row3 {
     width: 249px;
     left: 944px;
   }
 
-  #row1 a, #row2 a {
+  #row3 a {
     margin-left: 0px;
   }
 
@@ -314,15 +461,45 @@ IFRAME {
     margin-left: 0px;
   }
 
-  IFRAME {
-    margin-left: 0px;
+  .code2 a {
+    margin-left: inherit;
   }
 
+  .code2 h2 {
+    margin-left: inherit;
+  }
+
+  #stats {
+    margin-left: -1px;
+  }
+
+}
+
+@media only screen and (min-width: 1155px) {
+  #row2 {
+    left: 570px;
+    margin-left: -70px;
+  }
+
+  #row3 {
+      left: 881px;
+  }
 }
 
 @media only screen and (min-width: 1166px) {
   #stats {
     width: 325px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  #row2 {
+    left: 620px;
+    margin-left: -70px;
+  }
+
+  #row3 {
+      left: 944px;
   }
 }
 
@@ -342,8 +519,8 @@ IFRAME {
     width: 491px;
   }
 
-  #row3 {
-    width: 131px;
+  .h2-row3 {
+    width: 300px;
   }
 }
 
