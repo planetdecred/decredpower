@@ -29,7 +29,7 @@ h1 {
   font-size: -webkit-xxx-large;
   margin-top: -81px;
   margin-left: -23px;
-  text-shadow: -1px 1px 1px ##abcca3ba;
+  text-shadow: -1px 1px 1px #abcca3ba;
 }
 
 h2 {
@@ -43,7 +43,7 @@ h2 {
   margin-left:-100px;
   padding-top: 4px;
   padding-bottom: 4px;
-  margin-top: 12px !important;
+  margin-top: 30px !important;
   margin-bottom: 3px;
   transition: 1s ease-in-out all;
 }
