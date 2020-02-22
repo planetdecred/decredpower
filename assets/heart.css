@@ -1,7 +1,7 @@
 * {
   padding: 0;
   margin: 0;
-  font-family: "HK Grotesk", Helvetica Neue, Arial, sans-serif;
+  font-family: monospace;
   color: #aaa;
 }
 
@@ -36,6 +36,7 @@ a {
 
 .logo-title h1 {
   font-size: xx-large;
+  font-family: "HK Grotesk", Helvetica Neue, Arial, sans-serif;
 }
 
 .columns {
@@ -77,13 +78,17 @@ a {
   margin-bottom: 3px;
 }
 
+.column-list li span {
+  font-size: 1.2em;
+}
+
 @media (max-width: 768px) {
   #mainwrapper {
     padding-left: 50px;
     padding-right: 50px;
   }
 
-  a {
+  a, .column-list li span {
     font-size: 1em;
   }
 
@@ -102,7 +107,7 @@ a {
     padding-right: 30px;
   }
 
-  a {
+  a, .column-list li span {
     font-size: 0.85em;
   }
 }
@@ -130,6 +135,7 @@ a {
 
   .column {
     width: auto;
+    margin-right: 0;
   }
 
   .column .title h3 {
