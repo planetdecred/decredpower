@@ -75,10 +75,27 @@ a {
 
 .column-list li {
   list-style: none;
-  margin-bottom: 3px;
+  margin-bottom: 5px;
+}
+
+.column-list li li {
+  margin-top: 5px;
+  font-size: 1.2em;
 }
 
 .column-list li span {
+  font-size: 1.2em;
+}
+
+.footer {
+  padding: 30px;
+}
+
+.footer a {
+  font-size: 1.1em;
+}
+
+.footer p {
   font-size: 1.2em;
 }
 
