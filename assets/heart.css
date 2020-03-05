@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   font-family: monospace;
-  color: #aaa;
+  color: #c0c0c0;
 }
 
 body {
@@ -19,7 +19,7 @@ a {
   -moz-transition: background-color 1s;
   -o-transition: background-color 1s;
   transition: background-color 1s;
-  border-bottom: #AAA solid 1px;
+  border-bottom: #c0c0c0 solid 1px;
 }
 
 #mainwrapper {
@@ -31,7 +31,7 @@ a {
 .logo-title {
   text-align: center;
   text-shadow: -1px 1px 1px #abcca3ba;
-  color: #aaa;
+  color: #c0c0c0;
 }
 
 .logo-title h1 {
@@ -39,10 +39,18 @@ a {
   font-family: "HK Grotesk", Helvetica Neue, Arial, sans-serif;
 }
 
+.logo-title img {
+  width: 300px;
+}
+
 .columns {
   display: flex;
   margin-top: 40px;
   justify-content: center;
+}
+
+.eightBit img {
+  width: 100px;
 }
 
 .column {
@@ -55,8 +63,8 @@ a {
 }
 
 .column .title {
-  border-top: 2px solid #aaa;
-  border-bottom: 2px solid #aaa;
+  border-top: 2px solid #c0c0c0;
+  border-bottom: 2px solid #c0c0c0;
   padding-top: 4px;
   padding-bottom: 4px;
   margin-bottom: 5px;
@@ -99,13 +107,19 @@ a {
   font-size: 1.2em;
 }
 
+@media (min-width: 2000px) {
+  .logo-title img {
+    width: 600px;
+  }
+}
+
 @media (max-width: 768px) {
   #mainwrapper {
     padding-left: 50px;
     padding-right: 50px;
   }
 
-  a, .column-list li span {
+  a, .column-list li span, .column-list li li, .footer a, .footer p {
     font-size: 1em;
   }
 
@@ -116,6 +130,10 @@ a {
   .column .title h3 {
     font-size: small;
   }
+
+  .footer {
+    padding-left: 0;
+  }
 }
 
 @media (max-width: 700px) {
@@ -124,7 +142,7 @@ a {
     padding-right: 30px;
   }
 
-  a, .column-list li span {
+  a, .column-list li span, .column-list li li, .footer a, .footer p {
     font-size: 0.85em;
   }
 }
