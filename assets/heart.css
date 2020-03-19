@@ -12,7 +12,7 @@ body {
 
 a {
   font-family: monospace;
-  font-size: 1.2em;
+  font-size: 1.4em;
   letter-spacing: 0.2px;
   text-decoration: none;
   -webkit-transition: background-color 1s;
@@ -71,6 +71,7 @@ a {
 }
 
 .column .title h3 {
+  font-size: 1.5em;
   font-family: monospace;
   text-transform: uppercase;
   letter-spacing: 0.3px;
@@ -83,16 +84,16 @@ a {
 
 .column-list li {
   list-style: none;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .column-list li li {
   margin-top: 5px;
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 
 .column-list li span {
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 
 .footer {
@@ -104,7 +105,7 @@ a {
 }
 
 .footer p {
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 
 @media (min-width: 2000px) {
