@@ -12,7 +12,7 @@ body {
 
 a {
   font-family: monospace;
-  font-size: 1.4em;
+  font-size: 1.3em;
   letter-spacing: 0.2px;
   text-decoration: none;
   -webkit-transition: background-color 1s;
@@ -50,7 +50,22 @@ a {
 }
 
 .eightBit img {
+  float: left;
   width: 100px;
+}
+
+.logoBit {
+  position: absolute;
+  margin-top: -150px;
+  right: 50px;
+}
+
+.logoBit img {
+  width: 60px;
+}
+
+.clear {
+  clear: both;
 }
 
 .column {
@@ -146,6 +161,15 @@ a {
   a, .column-list li span, .column-list li li, .footer a, .footer p {
     font-size: 0.85em;
   }
+
+  .logoBit {
+    margin-top: -100px;
+    right: 10px;
+  }
+
+  .logoBit img {
+    width: 40px;
+  }
 }
 
 @media (max-width: 500px) {
@@ -156,6 +180,15 @@ a {
 
   .column .title h3 {
     font-size: smaller;
+  }
+
+  .logoBit {
+    margin-top: -80px;
+    right: 8px;
+  }
+
+  .logoBit img {
+    width: 40px;
   }
 }
 
