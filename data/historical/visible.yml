@@ -2,9 +2,6 @@
   link: https://bitcointalk.org/index.php?topic=1290358.0
   description: bitcointalk.org/index.php?topic=1290358.0
 -
-  link: https://bitcointalk.org/index.php?topic=1290358.0
-  description: bitcointalk.org/index.php?topic=1290358.0
--
   link: https://forum.decred.org
   description: forum.decred.org
 -
@@ -12,7 +9,7 @@
   description: conformal.com/the-bitcoin-consensus-red-herring
 -
   link: https://conformal.com/btcd-a-bitcoind-alternative-written-in-go/
-  description: "btcd: a bitcoind alternative written in Go conformal"
+  description: "*btcd: a bitcoind alternative written in Go conformal*"
 -
   link: https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges
   description: blog.companyzero.com/2015/11/bitcoins-biggest-challenges

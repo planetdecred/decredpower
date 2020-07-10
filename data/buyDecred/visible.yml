@@ -11,4 +11,4 @@
   link: https://www.binance.com/en/orderbook/DCR_BTC
   description: binance.com/en/orderbook/DCR_BTC
 
-  moreItems: For more items check layouts/columnOne/buy-decred.html
+  moreItems: For more items check layouts/partials/columnOne/buy-decred.html

@@ -8,8 +8,8 @@
   link: https://dcrdata.org/mempool
   description: dcrdata.org/mempool
 - 
-  link: dcrdata.org/ticketpool
-  description: https://dcrdata.org/ticketpool
+  link: https://dcrdata.org/ticketpool
+  description: dcrdata.org/ticketpool
 - 
   link: https://dcrdata.org/charts
   description: dcrdata.org/charts
@@ -17,14 +17,11 @@
   link: https://dcrdata.org/visualblocks
   description: dcrdata.org/visualblocks
 - 
-  link:
+  link: http://www.coinmarketcap.com/currencies/decred
   description: coinmarketcap.com/currencies/decred
 - 
-  link: http://www.coinmarketcap.com/currencies/decred
-  description:
-- 
-  link: info.binance.com/en/currencies/decred
-  description: https://info.binance.com/en/currencies/decred
+  link: https://info.binance.com/en/currencies/decred
+  description: info.binance.com/en/currencies/decred
 - 
   link: http://www.dcrstats.com
   description: dcrstats.com
