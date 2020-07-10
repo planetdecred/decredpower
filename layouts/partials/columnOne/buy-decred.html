@@ -1,0 +1,46 @@
+<div class="c">
+    <div class="title">
+        <h3>
+            Buy Decred
+        </h3>
+    </div>
+    <div class="column-list">
+        <ul class="visible">
+            {{ range .Site.Data.buyDecred.visible }}
+            <li>
+                <a href="{{ .link }}" target="_blank">{{ .description }}</a>
+            </li>
+            {{ end }}
+            <li>
+                <span>bittrex.com</span> (<a href="https://global.bittrex.com/Market/Index?MarketName=USD-DCR" target="_blank">USD-DCR</a>,&nbsp;<a href="https://global.bittrex.com/Market/Index?MarketName=BTC-DCR" target="_blank">BTC-DCR</a>,&nbsp;
+                <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-DCR" target="_blank">USDT-DCR</a>)
+            </li>
+            <li>
+                <span>exmo.com</span> (<a href="https://exmo.com/en/trade/DCR_BTC" target="_blank">DCR-BTC</a>,&nbsp;<a href="https://exmo.com/en/trade/DCR_UAH" target="_blank">DCR-UAH</a>,&nbsp;<a href="https://exmo.com/en/trade/DCR_RUB" target="_blank">DCR-RUB</a>)
+            </li>
+            <li>
+                <span>huobi.io</span> (<a href="https://www.huobi.com/en-us/exchange/dcr_usdt" target="_blank">DCR-USDT</a>,&nbsp;<a href="https://www.huobi.com/en-us/exchange/dcr_btc" target="_blank">DCR-BTC</a>)
+            </li>
+            <li>
+                <span>gate.io</span> (<a href="https://www.gate.io/trade/DCR_USDT" target="_blank">DCR-USDT</a>,&nbsp;<a href="https://www.gate.io/trade/DCR_BTC" target="_blank">DCR-BTC</a>)
+            </li>
+            <li>
+                <span>catalx.com</span> (<a href="https://catalx.io/trade/BTC-DCR" target="_blank">BTC-DCR</a>,&nbsp;<a href="https://catalx.io/trade/USDT-DCR" target="_blank">USDT-DCR</a>)
+            </li>
+            <li>
+                <span>coinex.com</span> (<a href="https://www.coinex.com/exchange?currency=usdt&dest=dcr" target="_blank">USDT-DCR</a>,&nbsp;<a href="https://www.coinex.com/exchange?currency=btc&dest=dcr" target="_blank">BTC-DCR</a>)
+            </li>
+            <li>
+                <span>bkex.com</span> (<a href="https://www.bkex.com/trade/DCR_BTC" target="_blank">DCR-BTC</a>,&nbsp;<a href="https://www.bkex.com/trade/DCR_USDT" target="_blank">DCR-USDT</a>,&nbsp;<a href="https://www.bkex.com/trade/DCR_ETH" target="_blank">DCR-ETH</a>)
+            </li>
+        </ul>
+        <ul class="toggle-hidden">
+            {{ range .Site.Data.buyDecred.hidden }}
+            <li>
+                <a href="{{ .link }}" target="_blank">{{ .description }}</a>
+            </li>
+            {{ end }}
+        </ul>
+        <button class="btn-toggle"></button>
+    </div>
+</div>

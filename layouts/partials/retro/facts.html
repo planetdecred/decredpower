@@ -1,0 +1,30 @@
+<div class="c">
+
+    <div class="title"><h3>Facts</h3></div>
+
+    <div class="column-list">
+
+        <ul class="visible">
+            
+            <li><span>Supply Cap: 21 million</span></li>
+            <li><span>Supply reduces by a factor of 100/101 every 21.33 days (6,144 blocks)</span></li>
+            <li><span>Block Reward: 60% PoW, 30% PoS, 10% Treasury</span></li>
+            <li><span>Ticket Pool Size Target: 40,960</span></li>
+
+            {{ range .Site.Data.facts.visible }}
+                <li>
+                    <a href="{{ .link }}" target="_blank">{{ .description }}</a>
+                </li>
+            {{end}}
+
+        </ul>
+
+        <ul class="toggle-hidden"></ul>
+
+        <button style="display: none;" class="btn-toggle"></button>
+
+        <div class="logoBit"><img id="image-bit" src="../images/logo_8bit_guy.png" alt="8 bit Stakey"></div>
+
+    </div>
+
+</div>
