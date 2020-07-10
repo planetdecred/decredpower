@@ -1,0 +1,30 @@
+.logo-title {
+    text-align: center;
+    text-shadow: -1px 1px 1px var(--text-shadow);
+    color: var(--text);
+    margin-bottom: -60px;
+    margin-top: 20px;
+    @media (max-width: 450px){
+      margin-bottom: -40px;
+    }
+    h1 {
+      font-size: xx-large;
+      font-family: "HK Grotesk", Helvetica Neue, Arial, sans-serif;
+      @media (max-width: 768px){
+        font-size: x-large;
+      }
+    }
+      
+  img {
+    height: 102px;
+    @media (max-width: 768px){
+      width: 306px;
+      height: auto;
+    }
+    @media (min-width: 2000px) {
+      height: 202px;
+    }
+  }
+}
+  
+
