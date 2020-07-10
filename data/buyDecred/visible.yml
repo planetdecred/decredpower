@@ -1,0 +1,14 @@
+-
+  link: https://decred.org/exchanges
+  description: decred.org/exchanges
+-
+  link: https://www.sequoir.com/
+  description: sequoir.com (USD-DCR)
+-
+  link: https://binance.com/en/trade/DCR_BTC
+  description: binance.com/en/trade/DCR_BTC
+-
+  link: https://www.binance.com/en/orderbook/DCR_BTC
+  description: binance.com/en/orderbook/DCR_BTC
+
+  moreItems: For more items check layouts/columnOne/buy-decred.html
