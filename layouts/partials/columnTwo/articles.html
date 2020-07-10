@@ -8,7 +8,11 @@
 
             {{ range .Site.Data.articles.visible }}
             <li>
+                {{ if .descriptionBold }}
+                <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionBold }}</strong></a>
+                {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
+                {{ end }}
             </li>
             {{ end }}
             
@@ -18,7 +22,11 @@
             
             {{ range .Site.Data.articles.hidden }}
             <li>
+                {{ if .descriptionBold }}
+                <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionBold }}</strong></a>
+                {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
+                {{ end }}
             </li>
             {{ end }}
 

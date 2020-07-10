@@ -1,17 +1,18 @@
 <div class="c">
-    <div class="title">
-        <h3>
-            Instant Exchanges
-        </h3>
-    </div>
-    <div class="column-list">
 
+    <div class="title"><h3>Instant Exchanges</h3></div>
+
+    <div class="column-list">
 
         <ul>
 
             {{ range .Site.Data.instantExchanges.visible }}
             <li>
+                {{ if .descriptionBold }}
+                <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionBold }}</strong></a>
+                {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
+                {{ end }}
             </li>
             {{ end }}
             
@@ -21,11 +22,18 @@
 
             {{ range .Site.Data.instantExchanges.hidden }}
             <li>
+                {{ if .descriptionBold }}
+                <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionBold }}</strong></a>
+                {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
+                {{ end }}
             </li>
             {{ end }}
 
         </ul>
+
         <button class="btn-toggle"></button>
+
     </div>
+    
 </div>

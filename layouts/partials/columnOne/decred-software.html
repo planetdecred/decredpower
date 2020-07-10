@@ -6,14 +6,22 @@
         <ul>
             {{ range .Site.Data.decredSoftware.visible }}
             <li>
+                {{ if .descriptionBold }}
+                <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionBold }}</strong></a>
+                {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
+                {{ end }}
             </li>
             {{ end }}
         </ul>
         <ul class="toggle-hidden">
             {{ range .Site.Data.decredSoftware.hidden }}
             <li>
+                {{ if .descriptionBold }}
+                <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionBold }}</strong></a>
+                {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
+                {{ end }}
             </li>
             {{ end }}
         </ul>
