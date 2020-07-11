@@ -29,6 +29,9 @@
   link: https://github.com/decred/dcrros
   descriptionBold: github.com/decred/dcrros
 -
+    link: https://github.com/matheusd/bip39-to-dcr-seed
+    descriptionBold: github.com/matheusd/bip39-to-dcr-seed
+-
   link: https://github.com/decred/dcrdesign/releases
   description: Decred Design releases
 -
