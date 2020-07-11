@@ -22,7 +22,11 @@
 
             {{ range .Site.Data.development.hidden }}
             <li>
+                {{ if .descriptionBold }}
+                <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionBold }}</strong></a>
+                {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
+                {{ end }}
             </li>
             {{ end }}
 

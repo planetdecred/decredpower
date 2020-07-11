@@ -9,7 +9,7 @@
   description: conformal.com/the-bitcoin-consensus-red-herring
 -
   link: https://conformal.com/btcd-a-bitcoind-alternative-written-in-go/
-  description: "*btcd: a bitcoind alternative written in Go conformal*"
+  descriptionBold: "btcd: a bitcoind alternative written in Go conformal"
 -
   link: https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges
   description: blog.companyzero.com/2015/11/bitcoins-biggest-challenges

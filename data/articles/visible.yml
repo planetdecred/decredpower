@@ -6,19 +6,19 @@
   description: docs.decred.org/governance/decred-constitution
 -
   link: https://medium.com/decred/running-a-decred-raspberry-pi-node-ac605b70c652
-  description: "*running a raspberry pi node*"
+  descriptionBold: running a raspberry pi node
 -
   link: https://docs.decred.org/getting-started/articles-and-media
   description: docs.decred.org/getting-started/articles-and-media
 - 
   link: https://es.cointelegraph.com/news/elian-huesca-btc-eth-and-decred-are-part-of-the-greatest-technological-and-economic-revolution-of-our-generation
-  description: "*BTC and DCR are part of the greatest technological (spanish)*"
+  descriptionBold: BTC and DCR are part of the greatest technological (spanish)
 -
   link: http://www.github.com/Guang168/DCR_articles
   description: "github: chinese articles"
 -
   link: https://ournetwork.substack.com/p/our-network-issue-27
-  description: "*Our Network: Issue #27 (Part 2)*"
+  descriptionBold: "Our Network: Issue #27 (Part 2)"
 -
   link: https://cryptocommons.cc/governance/decred
   description: cryptocommons.cc/governance/decred
@@ -33,11 +33,11 @@
   description: decredible.com/decred-cyphocracy-cypherpunk-democracy
 -
   link: https://medium.com/the-capital/project-rundown-interview-with-decred-on-the-capital-8b647919a339
-  description: "*interview on The Capital*"
+  descriptionBold: interview on The Capital
 -
   link: https://medium.com/@Ammarooni/why-we-need-decred-an-inclusive-approach-to-sound-money-db2f990c107b
-  description: "*why we need Decred*"
+  descriptionBold: why we need Decred
 -
   link: https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3
-  description: "*porque Decred es necesario (spanish)*"
+  descriptionBold: porque Decred es necesario (spanish)
   

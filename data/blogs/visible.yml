@@ -15,7 +15,7 @@
   description: medium.com/decred
 -
   link: https://medium.com/decred-ES
-  description: "*medium.com/decred-ES*"
+  descriptionBold: medium.com/decred-ES
 -
   link: https://medium.com/@decreddrive
   description: medium.com/@decreddrive
@@ -30,7 +30,7 @@
   description: medium.com/@permabullnino
 -
   link: https://medium.com/@Ammarooni
-  description: "*medium.com/@Ammarooni*"
+  descriptionBold: medium.com/@Ammarooni
 -
   link: https://github.com/xaur/decred-news
   description: github.com/xaur/decred-news

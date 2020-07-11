@@ -3,7 +3,7 @@
   description: t.me/s/DecredAgg
 -
   link: https://t.me/decredarabia
-  description: "*t.me/decredarabia*"
+  descriptionBold: t.me/decredarabia
 -
   link: https://t.me/addstickers/DCRComic
   description: t.me/addstickers/DCRComic
@@ -42,7 +42,7 @@
   description: twitter.com/yostatusdcr
 -
   link: https://twitter.com/coveryfire7777
-  description: "*twitter.com/coveryfire7777 (exitus)*"
+  descriptionBold: twitter.com/coveryfire7777 (exitus)
 -
   link: https://twitter.com/DecredDragon
   description: twitter.com/DecredDragon
@@ -51,7 +51,7 @@
   description: decredible.com
 -
   link: https://dtalks.info/
-  description: "*dtalks.info*"
+  descriptionBold: dtalks.info
 -
   link: https://twitter.com/_Checkmatey_/status/1247649984473894912
-  description: "*Decred On-chain update*"
+  descriptionBold: Decred On-chain update

@@ -21,13 +21,13 @@
   description: github.com/decred
 - 
   link: https://github.com/DecredES
-  description: "*github.com/DecredES*"
+  descriptionBold: github.com/DecredES
 -
   link: https://github.com/decred/dcps
-  description: "*github.com/decred/dcps*"
+  descriptionBold: github.com/decred/dcps
 - 
   link: https://github.com/decred/dcrros
-  description: "*github.com/decred/dcrros*"
+  descriptionBold: github.com/decred/dcrros
 -
   link: https://github.com/decred/dcrdesign/releases
   description: Decred Design releases
@@ -39,4 +39,4 @@
   description: "github: decred-translations"
 -
   link: https://decred.github.io/pi-ui/
-  description: "*decred.github.io/pi-ui*"
+  descriptionBold: decred.github.io/pi-ui

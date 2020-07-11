@@ -30,10 +30,10 @@
   description: github.com/buck54321/dcr-research/Attack-cost-estimation.pdf
 -
   link: https://medium.com/coinmonks/decred-price-a-seasonality-study-414bac98bc99
-  description: "*Decred price: a seasonality study*"
+  descriptionBold: "Decred price: a seasonality study"
 -
   link: https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
-  description: "*detailed analysis of Decred fork resistance*"
+  descriptionBold: detailed analysis of Decred fork resistance
 -
   link: https://www.halakoei.academy/what-is-decred/
-  description: "*what is Decred (persian)*"
+  descriptionBold: what is Decred (persian)

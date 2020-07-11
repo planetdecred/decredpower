@@ -9,7 +9,7 @@
   description: github.com/decred/dcrlnd
 -
   link: https://testnet-dcrln-01.guisso.dev/
-  description: "*testnet-dcrln-01.guisso.dev*"
+  descriptionBold: testnet-dcrln-01.guisso.dev
 -
   link: https://testnet.sdnl.tech/
-  description: "*testnet.sdnl.tech*"
+  descriptionBold: testnet.sdnl.tech
