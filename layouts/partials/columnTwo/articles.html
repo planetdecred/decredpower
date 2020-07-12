@@ -9,7 +9,7 @@
             {{ range .Site.Data.articles.visible }}
             <li>
                 {{ if .descriptionBold }}
-                <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionBold }}</strong></a>
+                <a href="{{ .link }}" target="_blank">{{ .descriptionBold }}</a> <strong style="font-size: 1.1em">*</strong>
                 {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
                 {{ end }}
@@ -23,7 +23,7 @@
             {{ range .Site.Data.articles.hidden }}
             <li>
                 {{ if .descriptionBold }}
-                <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionBold }}</strong></a>
+                <a href="{{ .link }}" target="_blank">{{ .descriptionBold }}</a> <strong style="font-size: 1.1em">*</strong>
                 {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
                 {{ end }}
