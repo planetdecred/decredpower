@@ -3,6 +3,6 @@
   description: dcrdata.org/parameters
 -
   link: https://docs.decred.org/img/ticket_voting_chart.svg
-  description: ticket voting days
+  description: Ticket Voting Days
 
   moreItems: For more items check layouts/columnThree/facts.html

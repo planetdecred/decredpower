@@ -9,7 +9,7 @@
   description: conformal.com/the-bitcoin-consensus-red-herring
 -
   link: https://conformal.com/btcd-a-bitcoind-alternative-written-in-go/
-  descriptionBold: "btcd: a bitcoind alternative written in Go conformal"
+  descriptionBold: "Btcd: a Bitcoind Alternative Written in Go"
 -
   link: https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges
   description: blog.companyzero.com/2015/11/bitcoins-biggest-challenges
@@ -24,7 +24,7 @@
   description: blog.companyzero.com/2016/01/decred-testnet-binaries-code-and-docs
 -
   link: https://explorer.dcrdata.org/block/0
-  description: Genesis block
+  description: Genesis Block
 -
   link: https://explorer.dcrdata.org/block/1
   description: explorer.dcrdata.org/block/1

@@ -1,4 +1,19 @@
 -
+  link: https://www.criptonoticias.com/etiquetas/decred-dcr/
+  description: criptonoticias.com (Spanish)
+-
+  link: https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3
+  descriptionBold: Porque Decred es Necesario (spanish)
+-
+  link: http://www.github.com/Guang168/DCR_articles
+  description: "GitHub: Chinese Articles"
+-
+  link: https://github.com/raedahgroup/translations/tree/master/vietnamese
+  description: Vietnamese Translations
+-
+  link: https://www.halakoei.academy/what-is-decred/
+  descriptionBold: What is Decred (Persian)
+-
   link: https://github.com/maxbron08/Decred-Canon
   description: Decred Canon
 -
@@ -8,9 +23,6 @@
   link: https://maxbronstein.com/decred-governance
   description: maxbronstein.com/decred-governance
 -
-  link: https://www.criptonoticias.com/etiquetas/decred-dcr/
-  description: criptonoticias.com (spanish)
--
   link: https://blog.neverstopmarketing.com/decred-and-democracy
   description: blog.neverstopmarketing.com/decred-and-democracy
 -
@@ -18,22 +30,19 @@
   description: medium.com/hashr8/hashr8-privacy-coin-reviews-decred-4d960bb6e5ba
 -
   link: https://medium.com/coinmonks/comparing-double-spend-resistance-decred-vs-bitcoin-part-1-330c8081b2a9
-  description: comparing double spend resistance decred vs bitcoin
+  description: Comparing double spend resistance Decred vs Bitcoin
 -
   link: https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
   description: medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
 -
   link: https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
-  description: Decred is 20x more expensive to attack than bitcoin
+  description: Decred is 20x More Expensive to Attack than Bitcoin
 -
   link: https://github.com/buck54321/dcr-research/blob/master/paper/Attack-cost%20estimation.pdf
   description: github.com/buck54321/dcr-research/Attack-cost-estimation.pdf
 -
   link: https://medium.com/coinmonks/decred-price-a-seasonality-study-414bac98bc99
-  descriptionBold: "Decred price: a seasonality study"
+  descriptionBold: "Decred Price: A Seasonality Study"
 -
   link: https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
-  descriptionBold: detailed analysis of Decred fork resistance
--
-  link: https://www.halakoei.academy/what-is-decred/
-  descriptionBold: what is Decred (persian)
+  descriptionBold: Detailed Analysis of Decred Fork Resistance
