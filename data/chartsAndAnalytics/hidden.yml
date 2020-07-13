@@ -30,7 +30,7 @@
   description: dcr.tokenview.com
 -
   link: https://coinmetrics.io/correlation-charts/#assets=btc-dcr,dcr-dxy,dcr-gld,dcr-s&p,dcr-vix
-  descriptionBold: coinmetrics.io/correlation-charts
+  descriptionNewLink: coinmetrics.io/correlation-charts
 -
   link: https://lunarcrush.com/coins/dcr/decred?
   description: lunarcrush.com/coins/dcr/decred
@@ -39,22 +39,22 @@
   description: clankapp.com/decred
 -
   link: https://cryptoslate.com/coins/decred/
-  descriptionBold: cryptoslate.com/coins/decred
+  descriptionNewLink: cryptoslate.com/coins/decred
 -
   link: https://bravenewcoin.com/data-and-charts/assets/DCR/price
-  descriptionBold: bravenewcoin.com/data-and-charts/assets/DCR/price
+  descriptionNewLink: bravenewcoin.com/data-and-charts/assets/DCR/price
 -
   link: https://bravenewcoin.com/insights/price-analysis/Decred
-  descriptionBold: bravenewcoin.com/insights/price-analysis/Decred
+  descriptionNewLink: bravenewcoin.com/insights/price-analysis/Decred
 -
   link: https://whattomine.com/coins/152-dcr-blake-14r
-  descriptionBold: whattomine.com/coins/152-dcr-blake-14r
+  descriptionNewLink: whattomine.com/coins/152-dcr-blake-14r
 -
   link: https://tokeninsight.com/tokenDetail?cid=2561
-  descriptionBold: tokeninsight.com/tokenDetail?cid=2561
+  descriptionNewLink: tokeninsight.com/tokenDetail?cid=2561
 -
   link: http://d3c.red/
-  descriptionBold: d3c.red
+  descriptionNewLink: d3c.red
 -
   link: https://charts.dcr.farm/d/000000014/nodes?inspect=3&inspectTab=data&viewPanel=3&orgId=1&from=now-2y&to=now
-  descriptionBold: charts.dcr.farm/nodes
+  descriptionNewLink: charts.dcr.farm/nodes

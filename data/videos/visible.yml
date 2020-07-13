@@ -3,7 +3,7 @@
   description: Decred channel
 -
   link: https://www.coindesk.com/video/365-decred-days
-  descriptionBold: 365 Decred days - CoinDesk
+  descriptionNewLink: 365 Decred days - CoinDesk
 -
   link: https://youtu.be/qjZwWD0pDzw
   description: Decred Intro
@@ -27,13 +27,13 @@
   description: Decred and Coinbase
 -
   link: https://www.youtube.com/watch?v=m5lcm6yttEk
-  descriptionBold: DCR 101 - How to stake Decred
+  descriptionNewLink: DCR 101 - How to stake Decred
 -
   link: https://www.youtube.com/watch?v=wEd91Za0nLo
-  descriptionBold: Problems in Bitcoin that Decred Solves
+  descriptionNewLink: Problems in Bitcoin that Decred Solves
 -
   link: https://www.youtube.com/watch?v=IDGQsWE3eeg
-  descriptionBold: "Head of Coinbase Listing's Says Decred is his #1 Project"
+  descriptionNewLink: "Head of Coinbase Listing's Says Decred is his #1 Project"
 -
   link: https://www.youtube.com/watch?v=cbfz5djbcb4
   description: Decred Privacy Flow Rap

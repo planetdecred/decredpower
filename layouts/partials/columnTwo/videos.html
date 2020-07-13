@@ -8,8 +8,8 @@
         <ul class="visible">
             {{ range .Site.Data.videos.visible }}
             <li>
-                {{ if .descriptionBold }}
-                <a href="{{ .link }}" target="_blank">{{ .descriptionBold }}</a> <strong style="font-size: 1.1em">*</strong>
+                {{ if .descriptionNewLink }}
+                <a href="{{ .link }}" target="_blank">{{ .descriptionNewLink }}</a> <strong style="font-size: 1.1em">*</strong>
                 {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
                 {{ end }}
@@ -19,8 +19,8 @@
         <ul class="toggle-hidden">
             {{ range .Site.Data.videos.hidden }}
             <li>
-                {{ if .descriptionBold }}
-                <a href="{{ .link }}" target="_blank">{{ .descriptionBold }}</a> <strong style="font-size: 1.1em">*</strong>
+                {{ if .descriptionNewLink }}
+                <a href="{{ .link }}" target="_blank">{{ .descriptionNewLink }}</a> <strong style="font-size: 1.1em">*</strong>
                 {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
                 {{ end }}

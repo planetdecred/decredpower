@@ -13,8 +13,8 @@
 
             {{ range .Site.Data.facts.visible }}
                 <li>
-                    {{ if .descriptionBold }}
-                    <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionBold }}</strong></a>
+                    {{ if .descriptionNewLink }}
+                    <a href="{{ .link }}" target="_blank"><strong>{{ .descriptionNewLink }}</strong></a>
                     {{ else }}
                     <a href="{{ .link }}" target="_blank">{{ .description }}</a>
                     {{ end }}

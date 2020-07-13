@@ -8,8 +8,8 @@
 
             {{ range .Site.Data.podcasts.visible }}
             <li>
-                {{ if .descriptionBold }}
-                <a href="{{ .link }}" target="_blank">{{ .descriptionBold }}</a> <strong style="font-size: 1.1em">*</strong>
+                {{ if .descriptionNewLink }}
+                <a href="{{ .link }}" target="_blank">{{ .descriptionNewLink }}</a> <strong style="font-size: 1.1em">*</strong>
                 {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a>
                 {{ end }}
