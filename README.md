@@ -1,5 +1,7 @@
 # decredpower
 
+This is the code for the [decredpower.com](https://decredpower.com/) website.
+
 Decred Power is an immediate access layout to all things Decred for those with a strong appetite for more Decred.
 
 ## Suggestions
