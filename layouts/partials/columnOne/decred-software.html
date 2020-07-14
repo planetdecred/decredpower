@@ -1,9 +1,11 @@
 <div class="c">
-    <div class="title">
-        <h3>Decred Software</h3>
-    </div>
+
+    <div class="title"><h3>Decred Software</h3></div>
+
     <div class="column-list">
+
         <ul>
+
             {{ range .Site.Data.decredSoftware.visible }}
             <li>
                 {{ if .descriptionNewLink }}
@@ -13,8 +15,11 @@
                 {{ end }}
             </li>
             {{ end }}
+
         </ul>
+
         <ul class="toggle-hidden">
+            
             {{ range .Site.Data.decredSoftware.hidden }}
             <li>
                 {{ if .descriptionNewLink }}
@@ -24,7 +29,11 @@
                 {{ end }}
             </li>
             {{ end }}
+            
         </ul>
+
         <button class="btn-toggle"></button>
+
     </div>
+
 </div>
