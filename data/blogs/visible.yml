@@ -14,9 +14,6 @@
   link: https://medium.com/decred
   description: medium.com/decred
 -
-  link: https://medium.com/decred-ES
-  descriptionNewLink: medium.com/decred-ES
--
   link: https://medium.com/@decreddrive
   description: medium.com/@decreddrive
 -
@@ -43,3 +40,6 @@
 -
   link: https://news.bitcoin.com/tag/decred
   description: news.bitcoin.com/tag/decred
+-
+  link: https://medium.com/decred-ES
+  descriptionNewLink: medium.com/decred-ES

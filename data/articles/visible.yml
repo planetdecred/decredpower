@@ -10,9 +10,6 @@
 -
   link: https://docs.decred.org/getting-started/articles-and-media
   description: docs.decred.org/getting-started/articles-and-media
-- 
-  link: https://es.cointelegraph.com/news/elian-huesca-btc-eth-and-decred-are-part-of-the-greatest-technological-and-economic-revolution-of-our-generation
-  descriptionNewLink: BTC and DCR are Part of The Greatest Technological (spanish)
 -
   link: https://ournetwork.substack.com/p/our-network-issue-27
   descriptionNewLink: "Our Network: Issue #27 (part 2)"
@@ -31,4 +28,13 @@
 -
   link: https://medium.com/@Ammarooni/why-we-need-decred-an-inclusive-approach-to-sound-money-db2f990c107b
   descriptionNewLink: Why We Need Decred
+-
+  link: https://medium.com/coinmonks/comparing-double-spend-resistance-decred-vs-bitcoin-part-1-330c8081b2a9
+  description: Comparing double spend resistance Decred vs Bitcoin
+-
+  link: https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
+  description: medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
+-
+  link: https://github.com/buck54321/dcr-research/blob/master/paper/Attack-cost%20estimation.pdf
+  description: github.com/buck54321/dcr-research/Attack-cost-estimation.pdf
   
