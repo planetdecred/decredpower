@@ -1,8 +1,14 @@
+- 
+  description: "Supply Cap: 21 million"
+- 
+  description: Supply reduces by a factor of 100/101 every 21.33 days (6,144 blocks)
+- 
+  description: "Block Reward: 60% PoW, 30% PoS, 10% Treasury"
+- 
+  description: "Ticket Pool Size Target: 40,960"
 -
   link: https://dcrdata.org/parameters
   description: dcrdata.org/parameters
 -
   link: https://docs.decred.org/img/ticket_voting_chart.svg
   description: Ticket Voting Days
-
-  moreItems: For more items check layouts/columnThree/facts.html

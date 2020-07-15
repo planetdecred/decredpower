@@ -9,4 +9,5 @@
   description: guarda.co/decred-wallet
 -
   link: https://play.google.com/store/apps/details?id=com.joegruff.decredaddressscanner
-  descriptionNewLink: play.google.com/decredaddressscanner
+  description: play.google.com/decredaddressscanner
+  newLink: true

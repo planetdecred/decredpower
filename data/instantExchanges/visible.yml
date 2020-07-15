@@ -9,7 +9,8 @@
   description: coinswitch.co
 -
   link: https://swapspace.co/?from=btc&to=dcr&amount=0.1
-  descriptionNewLink: swapspace.co
+  description: swapspace.co
+  newLink: true
 -
   link: https://simpleswap.io
   description: simpleswap.io

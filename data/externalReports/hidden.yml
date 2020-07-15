@@ -1,24 +1,31 @@
 -
   link: https://www.blockheadcap.com/post/decred-investment-thesis
-  descriptionNewLink: blockheadcap.com/post/decred-investment-thesis
+  description: blockheadcap.com/post/decred-investment-thesis
+  newLink: true
 -
   link: https://blog.metalpay.com/metal-pay-welcomes-decred/
   description: blog.metalpay.com/metal-pay-welcomes-decred
 -
   link: https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md
-  descriptionNewLink: Decred Forks in The Road
+  description: Decred Forks in The Road
+  newLink: true
 -
   link: https://formalverification.substack.com/p/in-the-network-decred
-  descriptionNewLink: In The Network - Formal Verification
+  description: In The Network - Formal Verification
+  newLink: true
 -
   link: https://cryptogov.net/akin-sawyerr/
-  descriptionNewLink: Akin Sawyerr - Interview
+  description: Akin Sawyerr - Interview
+  newLink: true
 -
   link: https://commodity.com/cryptocurrency/decred/
-  descriptionNewLink: The Lowdown on This Democratically Managed Cryptocurrency
+  description: The Lowdown on This Democratically Managed Cryptocurrency
+  newLink: true
 -
   link: https://hackmd.io/@swack0/HkR1_GvYI
-  descriptionNewLink: What if Bitcoin had a Treasury?
+  description: What if Bitcoin had a Treasury?
+  newLink: true
 -
   link: https://blockonomi.com/blockchain-governance/
-  descriptionNewLink: What is Blockchain Governance?
+  description: What is Blockchain Governance?
+  newLink: true

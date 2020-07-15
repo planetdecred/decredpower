@@ -18,28 +18,35 @@
   description: Decred is 20x More Expensive to Attack than Bitcoin
 -
   link: https://medium.com/coinmonks/decred-price-a-seasonality-study-414bac98bc99
-  descriptionNewLink: "Decred Price: A Seasonality Study"
+  description: "Decred Price: A Seasonality Study"
+  newLink: true
 -
   link: https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
-  descriptionNewLink: Detailed Analysis of Decred Fork Resistance
+  description: Detailed Analysis of Decred Fork Resistance
+  newLink: true
 -
   link: https://es.cointelegraph.com/news/decred-introduction-to-a-store-of-value-with-security-adaptability-and-sustainability
-  descriptionNewLink: Introducción a Decred (Spanish)
+  description: Introducción a Decred (Spanish)
+  newLink: true
 - 
   link: https://es.cointelegraph.com/news/elian-huesca-btc-eth-and-decred-are-part-of-the-greatest-technological-and-economic-revolution-of-our-generation
-  descriptionNewLink: BTC, ETH y Decred son parte de la mayor revolución tecnológica y económica de nuestra generación (spanish)
+  description: BTC, ETH y Decred son parte de la mayor revolución tecnológica y económica de nuestra generación (spanish)
+  newLink: true
 - 
   link: https://es.cointelegraph.com/news/decred-co-founder-calls-paypal-and-crypto-an-odd-combination
-  descriptionNewLink: El cofundador de Decred cree que PayPal y las criptomonedas son 'una combinación extraña (spanish)
+  description: El cofundador de Decred cree que PayPal y las criptomonedas son 'una combinación extraña (spanish)
+  newLink: true
 -
   link: https://es.cointelegraph.com/news/decred-co-founder-cbdcs-can-facilitate-crony-capitalism
-  descriptionNewLink: Las CBDC facilitará el crecimiento del capitalismo amiguista (spanish)
+  description: Las CBDC facilitará el crecimiento del capitalismo amiguista (spanish)
+  newLink: true
 -
   link: https://www.criptonoticias.com/etiquetas/decred-dcr/
   description: criptonoticias.com (spanish)
 -
   link: https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3
-  descriptionNewLink: Porque Decred es Necesario (spanish)
+  description: Porque Decred es Necesario (spanish)
+  newLink: true
 -
   link: http://www.github.com/Guang168/DCR_articles
   description: "GitHub: Chinese Articles"
@@ -48,4 +55,5 @@
   description: Vietnamese Translations
 -
   link: https://www.halakoei.academy/what-is-decred/
-  descriptionNewLink: What is Decred (persian)
+  description: What is Decred (persian)
+  newLink: true

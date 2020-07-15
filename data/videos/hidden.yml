@@ -1,12 +1,15 @@
 -
   link: https://www.youtube.com/watch?v=fD7fKSCEHaI
-  descriptionNewLink: D3c red channel
+  description: D3c red channel
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=NQr4Xs6gWgE
-  descriptionNewLink: Decred Can Destroy Top Alts
+  description: Decred Can Destroy Top Alts
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=kbH51MCr-8Q
-  descriptionNewLink: "What is Decred? Crypto in Frisco #7"
+  description: "What is Decred? Crypto in Frisco #7"
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=Y3fAbQ0c8z0
   description: Multicoin LND Invoice Swapping Service
@@ -30,7 +33,8 @@
   description: Decred on Youtube
 -
   link: https://www.youtube.com/watch?v=H_COE9A-t3I
-  descriptionNewLink: Australia Virtual Meetup
+  description: Australia Virtual Meetup
+  newLink: true
 -
   link: https://twitter.com/coveryfire7777/status/1229517588138528768
   description: "Twitter: CathieDWood of ARKInvest"
@@ -39,37 +43,48 @@
   description: "Twitter: Decred Development Visualized"
 -
   link: https://www.youtube.com/playlist?list=PLR1kUUl6lDcKGekrwuJf4Mfe5KFkhj8Wv
-  descriptionNewLink: DCR Price Prediction (playlist)
+  description: DCR Price Prediction (playlist)
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=TYkIyUaRG0s&t=4h26m06s
-  descriptionNewLink: HCPP19 - Opt Out Day 2
+  description: HCPP19 - Opt Out Day 2
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=HFPsUY3oLWM
-  descriptionNewLink: How to Pronounce Politeia
+  description: How to Pronounce Politeia
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=UlTtfejRoB8
-  descriptionNewLink: Politeia Challenge
+  description: Politeia Challenge
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=NxIwdIcA8h4
-  descriptionNewLink: The Easiest Way to Buy DCR
+  description: The Easiest Way to Buy DCR
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=gmWSmxb5yvg
-  descriptionNewLink: Bitcoin y Blockchain en La Vida Real (spanish)
+  description: Bitcoin y Blockchain en La Vida Real (spanish)
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=FLDtrRid42Y
-  descriptionNewLink: Resumen Diciembre 2019 (spanish)
+  description: Resumen Diciembre 2019 (spanish)
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=R0Jh32CxDXQ
-  descriptionNewLink: Preguntas (spanish)
+  description: Preguntas (spanish)
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=2VNZKWA5Bdg
-  descriptionNewLink: Marketing and Events Proposal 2 (spanish)
+  description: Marketing and Events Proposal 2 (spanish)
+  newLink: true
 - 
   link: https://www.youtube.com/watch?v=RFX0P9MKLKg
-  descriptionNewLink: Git and Github by Decred (spanish)
+  description: Git and Github by Decred (spanish)
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=_7Ae_Klwqo0
-  descriptionNewLink: Decred Arabia channel
+  description: Decred Arabia channel
+  newLink: true
 -
   link: https://www.youtube.com/channel/UCFjXbEDeyhhj2bH2t_eGKGA
   description: Decred Videos (russian)

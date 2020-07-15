@@ -8,11 +8,7 @@
 
             {{ range .Site.Data.other.visible }}
             <li>
-                {{ if .descriptionNewLink }}
-                <a href="{{ .link }}" target="_blank">{{ .descriptionNewLink }}</a> <strong style="font-size: 1.1em">*</strong>
-                {{ else }}
-                <a href="{{ .link }}" target="_blank">{{ .description }}</a>
-                {{ end }}
+                <a href="{{ .link }}" target="_blank">{{ .description }}</a> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
             </li>
             {{ end }}
             

@@ -27,7 +27,8 @@
   description: medium.com/@permabullnino
 -
   link: https://medium.com/@Ammarooni
-  descriptionNewLink: medium.com/@Ammarooni
+  description: medium.com/@Ammarooni
+  newLink: true
 -
   link: https://github.com/xaur/decred-news
   description: github.com/xaur/decred-news
@@ -42,4 +43,5 @@
   description: news.bitcoin.com/tag/decred
 -
   link: https://medium.com/decred-ES
-  descriptionNewLink: medium.com/decred-ES
+  description: medium.com/decred-ES
+  newLink: true

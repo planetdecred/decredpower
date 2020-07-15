@@ -1,6 +1,8 @@
 -
   link: https://raw.githubusercontent.com/monsieurbulb/forksintheroad/master/Placeholder.png
-  descriptionNewLink: Decred's Killer Feature by Placeholder
+  description: Decred's Killer Feature by Placeholder
+  newLink: true
 -
   link: https://twitter.com/svitekpavel/status/1280830951044636672
-  descriptionNewLink: "Twitter: List of Points by Svitekpavel"
+  description: "Twitter: List of Points by Svitekpavel"
+  newLink: true

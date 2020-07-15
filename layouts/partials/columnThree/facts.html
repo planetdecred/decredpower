@@ -5,27 +5,22 @@
     <div class="column-list">
 
         <ul class="visible">
-            
-            <li><span>Supply Cap: 21 million</span></li>
-            <li><span>Supply reduces by a factor of 100/101 every 21.33 days (6,144 blocks)</span></li>
-            <li><span>Block Reward: 60% PoW, 30% PoS, 10% Treasury</span></li>
-            <li><span>Ticket Pool Size Target: 40,960</span></li>
 
             {{ range .Site.Data.facts.visible }}
+                {{ if  .link}}
                 <li>
-                    {{ if .descriptionNewLink }}
-                    <a href="{{ .link }}" target="_blank">{{ .descriptionNewLink }}</a> <strong style="font-size: 1.1em">*</strong>
-                    {{ else }}
-                    <a href="{{ .link }}" target="_blank">{{ .description }}</a>
-                    {{ end }}
+                    <a href="{{ .link }}" target="_blank">{{ .description }}</a> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
                 </li>
+                {{ else }}
+                <li><span>{{ .description }}</span></li> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
+                {{ end }}
             {{end}}
 
         </ul>
 
         <ul class="toggle-hidden"></ul>
 
-        <button style="display: none;" class="btn-toggle"></button>
+        <button style="display: none" class="btn-toggle"></button>
 
     </div>
 

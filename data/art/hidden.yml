@@ -12,7 +12,8 @@
   description: Decred Bull vs Bear Fight
 -
   link: https://www.reddit.com/r/decred/comments/gcu8g8/the_mothership_art_by_me_agnfab/
-  descriptionNewLink: Mothership
+  description: Mothership
+  newLink: true
 - 
   link: https://twitter.com/aithzakaria1/status/1278714765939036166
   description: Astronaut

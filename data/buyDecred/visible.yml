@@ -10,5 +10,84 @@
 -
   link: https://www.binance.com/en/orderbook/DCR_BTC
   description: binance.com/en/orderbook/DCR_BTC
-
-  moreItems: For more items check layouts/partials/columnOne/buy-decred.html
+- 
+  exchange: bittrex.com
+  pars:
+    -
+      par: USD-DCR
+      link: https://global.bittrex.com/Market/Index?MarketName=USD-DCR
+    - 
+      par: BTC-DCR
+      link: https://global.bittrex.com/Market/Index?MarketName=BTC-DCR
+    - 
+      par: USDT-DCR
+      link: https://global.bittrex.com/Market/Index?MarketName=USDT-DCR
+      lastItem: true
+-
+  exchange: exmo.com 
+  newLink: true
+  pars:
+    -
+      par: DCR-BTC
+      link: https://exmo.com/en/trade/DCR_BTC
+    -
+      par: DCR-UAH
+      link: https://exmo.com/en/trade/DCR_UAH
+    -
+      par: DCR-RUB
+      link: https://exmo.com/en/trade/DCR_RUB
+      lastItem: true
+-
+  exchange: huobi.io
+  pars:
+    -
+      par: DCR-UST
+      link: https://www.huobi.com/en-us/exchange/dcr_usdt
+    -
+      par: DCR-BTC
+      link: https://www.huobi.com/en-us/exchange/dcr_btc
+      lastItem: true
+- 
+  exchange: gate.io
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.gate.io/trade/DCR_USDT
+    -
+      par: DCR-BTC
+      link: https://www.gate.io/trade/DCR_BTC
+      lastItem: true
+-
+  exchange: catalx.com
+  pars:
+    -
+      par: BTC-DCR
+      link: https://catalx.io/trade/BTC-DCR
+    -
+      par: USDT-DCR    
+      link: https://catalx.io/trade/USDT-DCR
+      lastItem: true
+- 
+  exchange: coinex.com
+  pars:
+    -
+      par: USDT-DCR
+      link: https://www.coinex.com/exchange?currency=usdt&dest=dcr
+    -
+      par: BTC-DCR
+      link: https://www.coinex.com/exchange?currency=btc&dest=dcr
+      lastItem: true
+-
+  exchange: bkex.com
+  newLink: true
+  pars:
+    -
+      par: DCR-BTC
+      link: https://www.bkex.com/trade/DCR_BTC
+    -
+      par: DCR-USDT
+      link: https://www.bkex.com/trade/DCR_USDT
+    -
+      par: DCR-ETH
+      link: https://www.bkex.com/trade/DCR_ETH
+      lastItem: true

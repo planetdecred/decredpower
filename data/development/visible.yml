@@ -21,13 +21,16 @@
   description: github.com/decred
 -
   link: https://github.com/decred/dcps
-  descriptionNewLink: github.com/decred/dcps
+  description: github.com/decred/dcps
+  newLink: true
 - 
   link: https://github.com/decred/dcrros
-  descriptionNewLink: github.com/decred/dcrros
+  description: github.com/decred/dcrros
+  newLink: true
 -
-    link: https://github.com/matheusd/bip39-to-dcr-seed
-    descriptionNewLink: github.com/matheusd/bip39-to-dcr-seed
+  link: https://github.com/matheusd/bip39-to-dcr-seed
+  description: github.com/matheusd/bip39-to-dcr-seed
+  newLink: true
 -
   link: https://github.com/decred/dcrdesign/releases
   description: Decred Design Releases
@@ -39,4 +42,5 @@
   description: "GitHub: Decred-Translations"
 -
   link: https://decred.github.io/pi-ui/
-  descriptionNewLink: decred.github.io/pi-ui
+  description: decred.github.io/pi-ui
+  newLink: true
