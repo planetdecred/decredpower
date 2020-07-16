@@ -1,10 +1,9 @@
 <div class="c">
-    <div class="title">
-        <h3>
-            Videos
-        </h3>
-    </div>
+
+    <div class="title"><h3>Videos</h3></div>
+
     <div class="column-list">
+        
         <ul class="visible">
             {{ range .Site.Data.videos.visible }}
             <li>
@@ -12,6 +11,7 @@
             </li>
             {{ end }}
         </ul>
+
         <ul class="toggle-hidden">
             {{ range .Site.Data.videos.hidden }}
             <li>
@@ -19,6 +19,9 @@
             </li>
             {{ end }}
         </ul>
+
         <button class="btn-toggle"></button>
+
     </div>
+
 </div>
