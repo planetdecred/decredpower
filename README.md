@@ -1,6 +1,6 @@
 # decredpower
 
-This is the code for the [decredpower.com](https://decredpower.com/) website.
+This is the code for the [decredpower.com](https://decredpower.com/)
 
 Decred Power is an immediate access layout to all things Decred for those with a strong appetite for more Decred.
 
@@ -8,33 +8,34 @@ Decred Power is an immediate access layout to all things Decred for those with a
 
 Suggestions welcome, file an [issue](https://github.com/planetdecred/decredpower/issues/new)
 
-
 ## Requirements
 
-* `Go` 1.14.4
-* `Hugo-extended` 0.73.0
+* [`Go` 1.14.4](https://golang.org/doc/install)
+* [`Hugo-extended` 0.73.0](https://gohugo.io/getting-started/installing/)
 
-You should now be able to access the site at `http://localhost:1313`
+## Development
 
-## Testing
+1. Clone repo
 
-* Installing Go
-  * Minimum supported version is 1.11.4. Installation instructions can be found [here](https://golang.org/doc/install).
-  
-* Installing Hugo
-  * The instructions for your OS can find [here](https://gohugo.io/getting-started/installing/).
-  
-####  Start the Hugo server 
-
-* ` hugo server -D `
-
-* ` http://localhost:1313/ `
+    Make sure you have [git](https://git-scm.com/) installed.
+    ```sh
+    git clone https://github.com/planetdecred/decredpower
+    cd decredpower
+    ```
+2. Start development hugo server
+    ```sh
+    hugo server -D
+    ```
+View on: ` http://localhost:1313/ `
 
 ## Static Deploy
 
-For a static deployment you must use the command ` hugo `.
+Build the site
 
-This will create a `Public` folder in the main path.
+```sh
+hugo 
+```
+This will create a `public` folder in the main path.
 Upload files to hosting or server.
 
 #### Some issues
@@ -43,21 +44,5 @@ If the sass files are not displayed correctly, try changing the baseurl in the c
 config.toml 
   baseurl = "URL"
 ~~~ 
-## Another Options of Deployment
 
-For a another options of deployment you can consult the following documentation.
-
-- [Hugo Deploy](https://gohugo.io/hosting-and-deployment/hugo-deploy/).
-- [Host-Agnostic Deploys with Nanobox](https://gohugo.io/hosting-and-deployment/deployment-with-nanobox/).
-- [Host on Render](https://gohugo.io/hosting-and-deployment/hosting-on-render/).
-- [Host on AWS Amplify](https://gohugo.io/hosting-and-deployment/hosting-on-aws-amplify/).
-- [Host on Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/).
-- [Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
-- [More Options](https://gohugo.io/hosting-and-deployment/)...
-
-#### Some issues
-If the sass files are not displayed correctly, try changing the baseurl in the configuration file
-~~~
-config.toml 
-  baseurl = "URL"
-~~~ 
+For any other query visit the Hugo [documentation](https://gohugo.io/documentation/)
