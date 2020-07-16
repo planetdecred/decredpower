@@ -41,7 +41,7 @@
   exchange: huobi.io
   pars:
     -
-      par: DCR-UST
+      par: DCR-USDT
       link: https://www.huobi.com/en-us/exchange/dcr_usdt
     -
       par: DCR-BTC
