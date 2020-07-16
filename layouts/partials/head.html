@@ -3,7 +3,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }}</title>
 
-
     {{ $style := resources.Get "./scss/heart.scss" | toCSS | minify | fingerprint}}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
 
