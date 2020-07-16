@@ -1,0 +1,24 @@
+-
+    link: https://github.com/decred/decred-binaries/releases
+    description: Binary Releases on GitHub
+-
+    link: https://decred.org/wallets
+    description: decred.org/wallets
+-
+    link: https://play.google.com/store/apps/details?id=com.decred.dcrandroid.mainnet
+    description: Decred Wallet (Android)
+-
+    link: https://apps.apple.com/us/app/decred-wallet/id1462247643
+    description: Decred Wallet (iOS)
+-
+    link: https://www.ledger.com/decred-wallet
+    description: ledger.com/decred-wallet
+-
+    link: https://www.exodus.io/decred-wallet
+    description: exodus.io/decred-wallet
+-
+    link: https://trustwallet.com/decred-wallet
+    description: trustwallet.com/decred-wallet
+-
+    link: https://atomicwallet.io/decred-wallet
+    description: atomicwallet.io/decred-wallet

@@ -1,0 +1,17 @@
+-
+  link: https://ln-map.jamieholdstock.com
+  description: ln-map.jamieholdstock.com
+-
+  link: https://ln-faucet.jamieholdstock.com
+  description: ln-faucet.jamieholdstock.com
+-
+  link: https://github.com/decred/dcrlnd
+  description: github.com/decred/dcrlnd
+-
+  link: https://testnet-dcrln-01.guisso.dev/
+  description: testnet-dcrln-01.guisso.dev
+  newLink: true
+-
+  link: https://testnet.sdnl.tech/
+  description: testnet.sdnl.tech
+  newLink: true

@@ -1,0 +1,46 @@
+-
+  link: https://decred.org
+  description: decred.org
+-
+  link: http://www.github.com/decred
+  description: github.com/decred
+-
+  link: https://github.com/decred/dcrd/blob/master/docs/code_contribution_guidelines.md
+  description: "GitHub: Contribution Guidelines"
+-
+  link: https://devdocs.decred.org
+  description: devdocs.decred.org
+-
+  link: https://decred.org/brand
+  description: decred.org/brand
+-
+  link: https://github.com/decred/dcrdesign/releases
+  description: Decred Design Releases
+-
+  link: http://www.github.com/raedahgroup
+  description: github.com/raedahgroup
+-
+  link: http://www.github.com/decredcommunity
+  description: github.com/decredcommunity
+-
+  link: https://github.com/decred/dcps
+  description: github.com/decred/dcps
+  newLink: true
+- 
+  link: https://github.com/decred/dcrros
+  description: github.com/decred/dcrros
+  newLink: true
+-
+  link: https://github.com/matheusd/bip39-to-dcr-seed
+  description: github.com/matheusd/bip39-to-dcr-seed
+  newLink: true
+-
+  link: https://github.com/decredcommunity/events/tree/master/reports
+  description: Decred Community Event Reports
+-
+  link: https://github.com/artikozel/decred-translations/blob/master/article_index.md
+  description: "GitHub: Decred-Translations"
+-
+  link: https://decred.github.io/pi-ui/
+  description: decred.github.io/pi-ui
+  newLink: true

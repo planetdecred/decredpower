@@ -1,0 +1,23 @@
+<div class="c">
+
+    <div class="title"><h3>Lightning Network</h3></div>
+
+    <div class="column-list">
+
+        <ul>
+
+            {{ range .Site.Data.lightningNetwork.visible }}
+            <li>
+                <a href="{{ .link }}" target="_blank">{{ .description }}</a> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
+            </li>
+            {{ end }}
+
+        </ul>
+
+        <ul class="toggle-hidden"></ul>
+
+        <button style="display:none" class="btn-toggle"></button>
+
+    </div>
+    
+</div>
