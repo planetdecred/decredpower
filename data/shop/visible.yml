@@ -1,7 +1,6 @@
 - 
   link: https://cryptwerk.com/coinmap/dcr/
   description: Shops Accepting Decred
-  newLink: true
 - 
   link: https://shop.spreadshirt.net/Decredible
   description: shop.spreadshirt.net/Decredible
@@ -11,4 +10,11 @@
 - 
   link: https://www.redbubble.com/es/i/funda-nordica/Reducido-DCR-de-jomsf/38225228.XWIXB
   description: Duvet Cover
+-
+  link: https://cryptwerk.com/pay-with/dcr/
+  description: Stores accepting DCR
+  newLink: true
+-
+  link: https://decentralizedboutique.com/
+  description: Decentralized Boutique
   newLink: true

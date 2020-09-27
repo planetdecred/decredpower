@@ -19,34 +19,27 @@
 -
   link: https://medium.com/coinmonks/decred-price-a-seasonality-study-414bac98bc99
   description: "Decred Price: A Seasonality Study"
-  newLink: true
 -
   link: https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
   description: Detailed Analysis of Decred Fork Resistance
-  newLink: true
 -
   link: https://es.cointelegraph.com/news/decred-introduction-to-a-store-of-value-with-security-adaptability-and-sustainability
   description: Introducción a Decred (Spanish)
-  newLink: true
 - 
   link: https://es.cointelegraph.com/news/elian-huesca-btc-eth-and-decred-are-part-of-the-greatest-technological-and-economic-revolution-of-our-generation
   description: BTC, ETH y Decred son parte de la mayor revolución tecnológica y económica de nuestra generación (spanish)
-  newLink: true
 - 
   link: https://es.cointelegraph.com/news/decred-co-founder-calls-paypal-and-crypto-an-odd-combination
   description: El cofundador de Decred cree que PayPal y las criptomonedas son una combinación extraña (spanish)
-  newLink: true
 -
   link: https://es.cointelegraph.com/news/decred-co-founder-cbdcs-can-facilitate-crony-capitalism
   description: Las CBDC facilitarán el crecimiento del capitalismo amiguista (spanish)
-  newLink: true
 -
   link: https://www.criptonoticias.com/etiquetas/decred-dcr/
   description: criptonoticias.com (spanish)
 -
   link: https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3
   description: Porque Decred es Necesario (spanish)
-  newLink: true
 -
   link: http://www.github.com/Guang168/DCR_articles
   description: "GitHub: Chinese Articles"
@@ -56,4 +49,19 @@
 -
   link: https://www.halakoei.academy/what-is-decred/
   description: What is Decred (persian)
+- 
+  link: https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6
+  description: "Decred privacy: taking the long road"
+  newLink: true
+-
+  link: https://blockcommons.red/post/plutocracy/
+  description: What is on-chain cryptocurrency governance? Is it plutocratic?
+  newLink: true
+-
+  link: https://medium.com/@NoahPierau/what-is-decred-dcr-why-was-this-cryptocurrency-created-4e5cae085bc7
+  description: Why is Decred? Why was this cryptocurrency created?
+  newLink: true
+-
+  link: https://changenow.io/blog/a-2020-in-depth-review-of-decred-dcr
+  description: Depth Review of Decred 2020
   newLink: true

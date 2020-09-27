@@ -28,7 +28,6 @@
 -
   link: https://medium.com/@Ammarooni
   description: medium.com/@Ammarooni
-  newLink: true
 -
   link: https://github.com/xaur/decred-news
   description: github.com/xaur/decred-news
@@ -44,4 +43,11 @@
 -
   link: https://medium.com/decred-ES
   description: medium.com/decred-ES
+-
+  link: https://thedecreddigest.wordpress.com/
+  description: The Decred digest
+  newLink: true
+-
+  link: https://withdecred.org/
+  description: withdecred.org
   newLink: true

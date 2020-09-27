@@ -4,7 +4,6 @@
 -
   link: https://t.me/decredarabia
   description: t.me/decredarabia
-  newLink: true
 -
   link: https://t.me/addstickers/DCRComic
   description: t.me/addstickers/DCRComic
@@ -44,7 +43,6 @@
 -
   link: https://twitter.com/coveryfire7777
   description: twitter.com/coveryfire7777 (exitus)
-  newLink: true
 -
   link: https://twitter.com/DecredDragon
   description: twitter.com/DecredDragon
@@ -54,8 +52,33 @@
 -
   link: https://dtalks.info/
   description: dtalks.info
-  newLink: true
 -
   link: https://twitter.com/_Checkmatey_/status/1247649984473894912
   description: Decred On-chain Update
+- 
+  link: https://t.me/DecredSupport
+  description: t.me/decredsupport
+  newLink: true
+- 
+  link: https://www.facebook.com/DecredArabia
+  description: facebook.com/DecredArabia
+  newLink: true
+- 
+  link: https://www.facebook.com/decredau/
+  description: facebook.com/decredau
+-
+  link: https://twitter.com/dcrStakeyClub
+  description: twitter.com/dcrStakeyClub
+  newLink: true
+-
+  link: https://twitter.com/ammarooni
+  description: twitter.com/ammarooni
+  newLink: true
+-
+  link: https://www.instagram.com/official_cryptos/
+  description: instagram.com/official_cryptos
+  newLink: true
+-
+  link: https://twitter.com/CATO_io/status/1299756617722925056
+  description: "ethical advantages in #Decred"
   newLink: true

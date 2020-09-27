@@ -13,3 +13,11 @@
 -
   link: https://holytransaction.com
   description: holytransaction.com
+-
+  link: https://coindcx.com/insta/buy/dcr
+  description: CoinDCX
+  newLink: true
+-
+  link: https://global.transak.com/?defaultCryptoCurrency=DCR
+  description: Tansak
+  newLink: true

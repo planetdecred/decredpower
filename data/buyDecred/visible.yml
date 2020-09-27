@@ -25,7 +25,6 @@
       lastItem: true
 -
   exchange: exmo.com 
-  newLink: true
   pars:
     -
       par: DCR-BTC
@@ -79,7 +78,6 @@
       lastItem: true
 -
   exchange: bkex.com
-  newLink: true
   pars:
     -
       par: DCR-BTC

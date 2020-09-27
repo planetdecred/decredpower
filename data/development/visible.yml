@@ -25,15 +25,12 @@
 -
   link: https://github.com/decred/dcps
   description: github.com/decred/dcps
-  newLink: true
 - 
   link: https://github.com/decred/dcrros
   description: github.com/decred/dcrros
-  newLink: true
 -
   link: https://github.com/matheusd/bip39-to-dcr-seed
   description: github.com/matheusd/bip39-to-dcr-seed
-  newLink: true
 -
   link: https://github.com/decredcommunity/events/tree/master/reports
   description: Decred Community Event Reports
@@ -43,4 +40,3 @@
 -
   link: https://decred.github.io/pi-ui/
   description: decred.github.io/pi-ui
-  newLink: true
