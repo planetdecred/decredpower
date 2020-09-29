@@ -17,14 +17,21 @@
   link: https://t.me/decred
   description: t.me/decred
 -
+  link: https://twitter.com/decredproject
+  description: "Twitter: Decred Project"
+-
+  link: https://www.facebook.com/decredproject
+  description: facebook.com/decredproject
+-
+  link: https://www.instagram.com/decredproject/
+  description: instagram.com/decredproject
+  newLink: true
+-
   link: https://twitter.com/thedecreddigest
   description: twitter.com/thedecreddigest
 -
   link: https://twitter.com/decreddrive
   description: twitter.com/decreddrive
--
-  link: https://www.facebook.com/decredproject
-  description: facebook.com/decredproject
 -
   link: https://twitter.com/Decred_ES
   description: "Twitter: Decred en Español"
