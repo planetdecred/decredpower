@@ -2,6 +2,10 @@
   link: https://timestamp.decred.org
   description: timestamp.decred.org
 -
+  link: https://cryptosetup.info/
+  description: cryptosetup.info
+  newLink: true
+-
   link: https://steelbackup.com
   description: steelbackup.com
 -
@@ -16,8 +20,4 @@
 -
   link: https://howtomine.com/decred/
   description: How to mine Decred
-  newLink: true
--
-  link: https://cryptosetup.info/
-  description: cryptosetup.info
   newLink: true

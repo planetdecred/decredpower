@@ -11,9 +11,6 @@
   link: https://worldcoinindex.com/coin/decred
   description: worldcoinindex.com/coin/decred
 -
-  link: https://cryptocoinjudge.com/decred
-  description: cryptocoinjudge.com/decred
--
   link: https://cryptocompare.com/coins/dcr/overview
   description: cryptocompare.com/coins/dcr/overview
 -
@@ -58,14 +55,6 @@
 -
   link: https://charts.dcr.farm/d/000000014/nodes?inspect=3&inspectTab=data&viewPanel=3&orgId=1&from=now-2y&to=now
   description: charts.dcr.farm/nodes
-- 
-  link: https://blockfolio.com/coin/DCR
-  description: blockfolio.com/coin/dcr
-  newLink: true
--
-  link: https://bitcoindominance.com/
-  description: Bitcoin dominance
-  newLink: true
 -
   link: https://www.coinbase.com/es/price/decred
   description: DCR USD price on Coinbase

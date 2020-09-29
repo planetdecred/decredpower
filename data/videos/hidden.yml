@@ -1,6 +1,6 @@
 -
   link: https://www.youtube.com/watch?v=fD7fKSCEHaI
-  description: D3c red channel
+  description: Decred Coinbase Presentation
 -
   link: https://www.youtube.com/watch?v=NQr4Xs6gWgE
   description: Decred Can Destroy Top Alts
@@ -52,6 +52,10 @@
 -
   link: https://www.youtube.com/watch?v=NxIwdIcA8h4
   description: The Easiest Way to Buy DCR
+-  
+  link: https://www.youtube.com/watch?v=qNpJZQbodhA
+  description: How to buy Decred on SimpleSwap
+  newLink: true
 -
   link: https://www.youtube.com/channel/UCCprOo4gR1vsjJTAzv8BMBQ
   description: Decred en Español
@@ -84,10 +88,6 @@
 -
   link: https://www.youtube.com/watch?v=mPcPrXEe7Rw
   description: Campus Party Brasil (portuguese)
--  
-  link: https://www.youtube.com/watch?v=qNpJZQbodhA
-  description: How to buy Decred on SimpleSwap
-  newLink: true
 -
   link: https://www.youtube.com/watch?v=UWQ7AJ7mPC4
   description: What is Decred? (Persian)

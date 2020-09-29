@@ -11,15 +11,19 @@
   link: https://roughconsensus.libsyn.com
   description: roughconsensus.libsyn.com
 -
+  link: https://anchor.fm/staked-podcast/
+  description: Staked Podcast
+  newLink: true
+-
   link: https://povcryptopod.libsyn.com/105-fight-night-xi-btc-v-eth-v-dcr-with-checkmate
   description: povcryptopod.libsyn.com/105-fight-night-xi-btc-v-eth-v-dcr-with-checkmate
 -
   link: https://medium.com/@TrustlessState/decred-splitting-the-difference-between-bitcoin-and-ethereum-with-luke-powell-758cf6e1218d
   description: Interview w/ Luke Powell on Pov crypto
 - 
+  link: https://open.spotify.com/episode/26FIo5tkUeJzyiA1DiY6Zn?si=rf5F0fOjQaSCUoFR_iLL6w
+  description: Decred introduction (spanish)
+  newLink: true
+- 
   link: https://www.territoriobitcoin.com/entrevista-con-jesus-sanchez-bermejo-ceo-de-criptoro-y-elian-huesca-latam-ops-lead-de-decred/
   description: Decred Ops Latam (spanish)
--
-  link: https://anchor.fm/staked-podcast/
-  description: Staked Podcast
-  newLink: true

@@ -2,8 +2,11 @@
   link: https://xaur.github.io/decred-news
   description: Decred Journal
 -
-  link: https://medium.com/decred/journals
+  link: https://medium.com/decred/journals/home
   description: medium.com/decred/journals
+-
+  link: https://medium.com/decred-ES
+  description: medium.com/decred-ES
 -
   link: https://blog.decred.org
   description: blog.decred.org
@@ -35,19 +38,16 @@
   link: https://blockcommons.red
   description: blockcommons.red
 -
+  link: https://withdecred.org/
+  description: withdecred.org
+  newLink: true
+-
   link: https://blog.neverstopmarketing.com/tag/decred
   description: blog.neverstopmarketing.com/tag/decred
 -
   link: https://news.bitcoin.com/tag/decred
   description: news.bitcoin.com/tag/decred
 -
-  link: https://medium.com/decred-ES
-  description: medium.com/decred-ES
--
   link: https://thedecreddigest.wordpress.com/
   description: The Decred digest
-  newLink: true
--
-  link: https://withdecred.org/
-  description: withdecred.org
   newLink: true

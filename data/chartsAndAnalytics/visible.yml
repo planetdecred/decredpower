@@ -16,9 +16,17 @@
 - 
   link: https://dcrdata.org/visualblocks
   description: dcrdata.org/visualblocks
+-
+  link: https://dcronchain.com/
+  description: dcronchain.com
+  newLink: true
 - 
   link: http://www.coinmarketcap.com/currencies/decred
   description: coinmarketcap.com/currencies/decred
+-
+  link: https://coin360.com/coin/decred-dcr
+  description: coin360.com/coin/decred-dcr
+  newLink: true
 - 
   link: http://www.dcrstats.com
   description: dcrstats.com
@@ -43,6 +51,14 @@
 - 
   link: https://www.tradingview.com/symbols/DCRBTC/
   description: tradingview.com/symbols/DCRBTC
+- 
+  link: https://blockfolio.com/coin/DCR
+  description: blockfolio.com/coin/dcr
+  newLink: true
+-
+  link: https://bitcoindominance.com/
+  description: Bitcoin dominance
+  newLink: true
 - 
   link: https://trends.google.com/trends/explore?q=decred
   description: trends.google.com/trends/explore?q=decred
