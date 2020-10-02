@@ -26,16 +26,16 @@
 -
   link: https://t.me/decredarabia
   description: t.me/decredarabia
+- 
+  link: https://t.me/DecredSupport
+  description: t.me/decredsupport
+  newLink: true
 -
   link: https://t.me/addstickers/DCRComic
   description: t.me/addstickers/DCRComic
 -
   link: https://t.me/addstickers/dcrstakey
   description: t.me/addstickers/dcrstakey
-- 
-  link: https://t.me/DecredSupport
-  description: t.me/decredsupport
-  newLink: true
 -
   link: https://twitter.com/decredproject
   description: "Twitter: Decred Project"
