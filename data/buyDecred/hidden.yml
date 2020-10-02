@@ -3,10 +3,10 @@
   pars: 
     -
       par: BTC-DCR
-      link: poloniex.com/exchange#btc_dcr
+      link: https://poloniex.com/exchange#btc_dcr
       lastItem: true
 -
-  link: Kucoin Spot
+  exchange: Kucoin Spot
   pars: 
     -
       par: DCR-BTC
