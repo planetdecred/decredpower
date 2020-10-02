@@ -2,9 +2,6 @@
   link: https://github.com/maxbron08/Decred-Canon
   description: Decred Canon
 -
-  link: https://stakey.club/en/articles
-  description: stakey.club
--
   link: https://maxbronstein.com/decred-governance
   description: maxbronstein.com/decred-governance
 -
@@ -12,7 +9,7 @@
   description: blog.neverstopmarketing.com/decred-and-democracy
 -
   link: https://medium.com/hashr8/hashr8-privacy-coin-reviews-decred-4d960bb6e5ba
-  description: medium.com/hashr8/hashr8-privacy-coin-reviews-decred-4d960bb6e5ba
+  description: "Hashr8 Privacy Coin Reviews: Decred"
 -
   link: https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
   description: Decred is 20x More Expensive to Attack than Bitcoin
@@ -52,19 +49,3 @@
 -
   link: https://www.halakoei.academy/what-is-decred/
   description: What is Decred (persian)
-- 
-  link: https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6
-  description: "Decred privacy: taking the long road"
-  newLink: true
--
-  link: https://blockcommons.red/post/plutocracy/
-  description: What is on-chain cryptocurrency governance? Is it plutocratic?
-  newLink: true
--
-  link: https://medium.com/@NoahPierau/what-is-decred-dcr-why-was-this-cryptocurrency-created-4e5cae085bc7
-  description: Why is Decred? Why was this cryptocurrency created?
-  newLink: true
--
-  link: https://changenow.io/blog/a-2020-in-depth-review-of-decred-dcr
-  description: Depth Review of Decred 2020
-  newLink: true

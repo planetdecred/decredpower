@@ -15,7 +15,7 @@
   description: Fork Resistance
 -
   link: https://decredible.com/decred-cyphocracy-cypherpunk-democracy
-  description: decredible.com/decred-cyphocracy-cypherpunk-democracy
+  description: Decred Cyphocracy Cypherpunk Democracy
 -
   link: https://medium.com/the-capital/project-rundown-interview-with-decred-on-the-capital-8b647919a339
   description: Interview on The Capital
@@ -27,8 +27,23 @@
   description: Comparing double spend resistance Decred vs Bitcoin
 -
   link: https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
-  description: medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
+  description: Decred’s hybrid protocol, a superior deterrent to majority attacks
 -
   link: https://github.com/buck54321/dcr-research/blob/master/paper/Attack-cost%20estimation.pdf
-  description: github.com/buck54321/dcr-research/Attack-cost-estimation.pdf
-  
+  description: Attack Cost Estimation
+- 
+  link: https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6
+  description: "Decred privacy: taking the long road"
+  newLink: true
+-
+  link: https://blockcommons.red/post/plutocracy/
+  description: What is on-chain cryptocurrency governance? Is it plutocratic?
+  newLink: true
+-
+  link: https://medium.com/@NoahPierau/what-is-decred-dcr-why-was-this-cryptocurrency-created-4e5cae085bc7
+  description: Why is Decred? Why was this cryptocurrency created?
+  newLink: true
+-
+  link: https://changenow.io/blog/a-2020-in-depth-review-of-decred-dcr
+  description: Depth Review of Decred 2020
+  newLink: true
