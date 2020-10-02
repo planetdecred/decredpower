@@ -1,10 +1,9 @@
 <div class="column">
 
     <div id="header-three" class="header"><a href="{{ .Site.BaseURL }}" id="link-change">Change Theme</a></div>
-
+    {{ partial "retro/facts.html" . }}
     {{ partial "columnThree/governance.html" . }}
     {{ partial "columnThree/development.html" . }}
-    {{ partial "retro/facts.html" . }}
     {{ partial "columnThree/historical.html" . }}
     {{ partial "columnThree/lightning-network.html" . }}
     {{ partial "columnThree/atomic-swaps.html" . }}
