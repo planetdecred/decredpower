@@ -16,6 +16,10 @@
 -
   link: https://t.me/decred
   description: t.me/decred
+- 
+  link: https://t.me/DecredSupport
+  description: t.me/decredsupport
+  newLink: true
 -
   link: https://t.me/DecredES
   description: t.me/DecredES
@@ -26,10 +30,6 @@
 -
   link: https://t.me/decredarabia
   description: t.me/decredarabia
-- 
-  link: https://t.me/DecredSupport
-  description: t.me/decredsupport
-  newLink: true
 -
   link: https://t.me/addstickers/DCRComic
   description: t.me/addstickers/DCRComic
