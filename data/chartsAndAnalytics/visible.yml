@@ -24,6 +24,10 @@
   link: http://www.coinmarketcap.com/currencies/decred
   description: coinmarketcap.com/currencies/decred
 -
+  link: https://www.coinbase.com/price/decred
+  description: coinbase.com/price/decred
+  newLink: true
+-
   link: https://coin360.com/coin/decred-dcr
   description: coin360.com/coin/decred-dcr
   newLink: true
@@ -57,7 +61,7 @@
   newLink: true
 -
   link: https://bitcoindominance.com/
-  description: Bitcoin dominance
+  description: bitcoindominance.com
   newLink: true
 - 
   link: https://trends.google.com/trends/explore?q=decred

@@ -1,24 +1,52 @@
 -
-  link: https://poloniex.com/exchange#btc_dcr
-  description: poloniex.com/exchange#btc_dcr
+  exchange: poloniex.com
+  pars: 
+    -
+      par: BTC-DCR
+      link: poloniex.com/exchange#btc_dcr
+      lastItem: true
 -
-  link: https://trade.kucoin.com/spot/DCR-BTC
-  description: trade.kucoin.com/spot/DCR-BTC
+  link: Kucoin Spot
+  pars: 
+    -
+      par: DCR-BTC
+      link: https://trade.kucoin.com/spot/DCR-BTC
+      lastItem: true
+-
+  exchange: account.bitvavo.com
+  pars:
+    -
+      par: DCR-EUR
+      link: https://account.bitvavo.com/markets/DCR-EUR
+      lastItem: true
+-
+  exchange: braziliex.com
+  pars:
+    -
+      par: DCR-BRL
+      link: https://braziliex.com/trade.php?market=dcr_brl
+      lastItem: true
+- 
+  exchange: coindcx.com
+  pars:
+    -
+      par: DCR-BTC
+      link: https://coindcx.com/trade/DCRBTC
+      lastItem: true
+- 
+  exchange: Bisq P2P
+  pars:
+    -
+      par: DCR-BTC
+      link: https://bisq.network/markets/?currency=dcr_btc
+      lastItem: true
+- 
+  exchange: upbit.com
+  pars:
+    -
+      par: KRW-DCR
+      link: https://upbit.com/exchange?code=CRIX.UPBIT.KRW-DCR
+      lastItem: true
 -
   link: https://www.kaiserex.com
-  description: kaiserex.net
--
-  link: https://account.bitvavo.com/markets/DCR-EUR
-  description: bitvavo.com/markets/DCR-EUR
--
-  link: https://braziliex.com/trade.php?market=dcr_brl
-  description: braziliex.com/trade.php?market=dcr_brl
-- 
-  link: https://coindcx.com/trade/DCRBTC
-  description: coindcx.com/trade/DCRBTC
-- 
-  link: https://bisq.network/markets/?currency=dcr_btc
-  description: bisq.network/markets/?currency=dcr_btc P2P
-- 
-  link: https://upbit.com/exchange?code=CRIX.UPBIT.KRW-DCR
-  description: upbit.com/exchange?code=CRIX.UPBIT.KRW-DCR korea
+  description: kaiserex.com

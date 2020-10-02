@@ -2,11 +2,11 @@
   link: https://www.abra.com
   description: abra.com
 -
-  link: https://www.coinomi.com/en/asset/decred
-  description: coinomi.com/en/asset/decred
+  link: https://www.coinomi.com/asset/decred
+  description: coinomi.com/asset/decred
 -
-  link: https://guarda.co/decred-wallet
-  description: guarda.co/decred-wallet
+  link: https://guarda.com/decred-wallet
+  description: guarda.com/decred-wallet
 -
   link: https://play.google.com/store/apps/details?id=com.joegruff.decredaddressscanner
-  description: play.google.com/decredaddressscanner
+  description: Decred Address Scanner (android)

@@ -1,33 +1,33 @@
 -
   link: https://github.com/xaur/decred-news/blob/docs/guidelines.md#translations
-  description: github.com/xaur/guidelines.md#translations
+  description: github.com/xaur/decred-news/blob/docs/guidelines.md#translations
 -
   link: https://github.com/decredcommunity/wiki/blob/master/wiki/misconceptions.md
-  description: github.com/decredcommunity/misconceptions.md
+  description: github.com/decredcommunity/wiki/blob/master/wiki/misconceptions.md
 -
-  link: https://coincode.sh/c/dcr/
+  link: https://coincode.sh/c/dcr
   description: coincode.sh/c/dcr
 -
-  link: https://bisontrails.co/decred/
+  link: https://bisontrails.co/decred
   description: bisontrails.co/decred
 - 
   link: https://github.com/DecredES
   description: github.com/DecredES
 - 
   link: https://gist.github.com/pLabarta/a07e1ff4b7429de4b79c6ccfecefb81e
-  description: Simple ticket price info
+  description: Simple ticket Price Info in Python
   newLink: true
 - 
-  link: https://pypi.org/project/decred/#description
-  description: DCR Python library
+  link: https://pypi.org/project/decred
+  description: pypi.org/project/decred
   newLink: true
 - 
   link: https://github.com/decredcommunity/translations
-  description: Decred Translations
+  description: github.com/decredcommunity/translations
   newLink: true
 - 
   link: https://github.com/exitus1/Video-Scripts
-  description: Exitus videos scripts
+  description: github.com/exitus1/Video-Scripts
   newLink: true
 -
   link: https://github.com/dajohi/v3tool
@@ -35,5 +35,5 @@
   newLink: true
 -
   link: https://github.com/degeri/dcrd_rpc_json
-  description: DCR RPC
+  description: github.com/degeri/dcrd_rpc_json
   newLink: true

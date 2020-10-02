@@ -1,27 +1,35 @@
 -
-  link: https://t.me/s/DecredAgg
-  description: t.me/s/DecredAgg
+  link: https://twitter.com/decredfrance
+  description: twitter.com/decredfrance
 -
-  link: https://t.me/decredarabia
-  description: t.me/decredarabia
+  link: https://twitter.com/Decred_ITA
+  description: "Twitter: Decred Italy"
 -
-  link: https://t.me/addstickers/DCRComic
-  description: t.me/addstickers/DCRComic
+  link: https://twitter.com/Decred_CA
+  description: "Twitter: Decred Canada"
 -
-  link: https://t.me/addstickers/dcrstakey
-  description: t.me/addstickers/dcrstakey
+  link: https://twitter.com/Decred_RU
+  description: "Twitter: Decred Russia"
 -
-  link: https://www.meetup.com/pt-BR/DecredBrasil
-  description: meetup.com/pt-BR/DecredBrasil
+  link: https://twitter.com/Decred_BR
+  description: "Twitter: Decred Brasil"
 -
-  link: https://instagram.com/decredbr
-  description: instagram.com/decredbr
+  link: https://twitter.com/Decred_PL
+  description: "Twitter: Decred Poland"
 -
-  link: https://facebook.com/decredESP
-  description: facebook.com/decredESP
+  link: https://twitter.com/Decred_JPN
+  description: "Twitter: Decred Japan"
 -
-  link: https://facebook.com/groups/decredinternational
-  description: facebook.com/groups/decredinternational
+  link: https://twitter.com/DecredArabia
+  description: "Twitter: Decred Arabia"
+-
+  link: https://twitter.com/dcrStakeyClub
+  description: twitter.com/dcrStakeyClub
+  newLink: true
+-
+  link: https://twitter.com/ammarooni
+  description: twitter.com/ammarooni
+  newLink: true
 -
   link: https://twitter.com/search?q=decred
   description: twitter.com/search?q=decred
@@ -47,18 +55,31 @@
   link: https://twitter.com/DecredDragon
   description: twitter.com/DecredDragon
 -
-  link: https://decredible.com
-  description: decredible.com
--
-  link: https://dtalks.info/
-  description: dtalks.info
--
-  link: https://twitter.com/_Checkmatey_/status/1247649984473894912
-  description: Decred On-chain Update
-- 
-  link: https://t.me/DecredSupport
-  description: t.me/decredsupport
+  link: https://www.instagram.com/decredproject/
+  description: instagram.com/decredproject
   newLink: true
+-
+  link: https://www.instagram.com/decred_es
+  description: instagram.com/decred_es
+-
+  link: https://instagram.com/decredbr
+  description: instagram.com/decredbr
+-
+  link: https://www.instagram.com/official_cryptos/
+  description: instagram.com/official_cryptos
+  newLink: true
+-
+  link: https://www.facebook.com/decredproject
+  description: facebook.com/decredproject
+-
+  link: https://www.facebook.com/groups/decredbrasil
+  description: facebook.com/groups/decredbrasil
+-
+  link: https://facebook.com/decredESP
+  description: facebook.com/decredESP
+-
+  link: https://facebook.com/groups/decredinternational
+  description: facebook.com/groups/decredinternational
 - 
   link: https://www.facebook.com/DecredArabia
   description: facebook.com/DecredArabia
@@ -66,19 +87,13 @@
 - 
   link: https://www.facebook.com/decredau/
   description: facebook.com/decredau
+
 -
-  link: https://twitter.com/dcrStakeyClub
-  description: twitter.com/dcrStakeyClub
-  newLink: true
+  link: https://decredible.com
+  description: decredible.com
 -
-  link: https://twitter.com/ammarooni
-  description: twitter.com/ammarooni
-  newLink: true
+  link: https://dtalks.info/
+  description: dtalks.info
 -
-  link: https://www.instagram.com/official_cryptos/
-  description: instagram.com/official_cryptos
-  newLink: true
--
-  link: https://twitter.com/CATO_io/status/1299756617722925056
-  description: "ethical advantages in #Decred"
-  newLink: true
+  link: https://www.meetup.com/pt-BR/DecredBrasil
+  description: meetup.com/pt-BR/DecredBrasil

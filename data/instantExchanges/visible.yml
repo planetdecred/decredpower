@@ -1,6 +1,6 @@
 -
   link: https://www.sequoir.com/swap-pro/
-  description: sequoir.com/swap-pro
+  description: sequoir.com/swap-pro/
 -
   link: https://changenow.io/?from=btc&to=dcr
   description: changenow.io/?from=btc&to=dcr
@@ -9,7 +9,7 @@
   description: coinswitch.co
 -
   link: https://swapspace.co/?from=btc&to=dcr&amount=0.1
-  description: swapspace.co
+  description: swapspace.co/?from=btc&to=dcr&amount=0.1
 -
   link: https://simpleswap.io
   description: simpleswap.io

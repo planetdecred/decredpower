@@ -17,15 +17,31 @@
   link: https://t.me/decred
   description: t.me/decred
 -
+  link: https://t.me/DecredES
+  description: t.me/DecredES
+  newLink: true
+-
+  link: https://t.me/s/DecredAgg
+  description: t.me/s/DecredAgg
+-
+  link: https://t.me/decredarabia
+  description: t.me/decredarabia
+-
+  link: https://t.me/addstickers/DCRComic
+  description: t.me/addstickers/DCRComic
+-
+  link: https://t.me/addstickers/dcrstakey
+  description: t.me/addstickers/dcrstakey
+- 
+  link: https://t.me/DecredSupport
+  description: t.me/decredsupport
+  newLink: true
+-
   link: https://twitter.com/decredproject
   description: "Twitter: Decred Project"
 -
-  link: https://www.facebook.com/decredproject
-  description: facebook.com/decredproject
--
-  link: https://www.instagram.com/decredproject/
-  description: instagram.com/decredproject
-  newLink: true
+  link: https://twitter.com/Decred_ES
+  description: "Twitter: Decred en Español"
 -
   link: https://twitter.com/thedecreddigest
   description: twitter.com/thedecreddigest
@@ -33,47 +49,14 @@
   link: https://twitter.com/decreddrive
   description: twitter.com/decreddrive
 -
-  link: https://twitter.com/Decred_ES
-  description: "Twitter: Decred en Español"
--
   link: https://twitter.com/DecredIreland
-  description: Twitter.com/DecredIreland
+  description: twitter.com/DecredIreland
 -
   link: https://twitter.com/DecredAustralia
-  description: Twitter.com/DecredAustralia
+  description: twitter.com/DecredAustralia
 -
   link: https://twitter.com/DecredVietnam
-  description: Twitter.com/DecredVietnam
+  description: twitter.com/DecredVietnam
 -
   link: https://twitter.com/DecredIndia
-  description: Twitter.com/DecredIndia
--
-  link: https://twitter.com/decredfrance
-  description: Twitter.com/decredfrance
--
-  link: https://twitter.com/Decred_ITA
-  description: "Twitter: Decred Italy"
--
-  link: https://twitter.com/Decred_CA
-  description: "Twitter: Decred Canada"
--
-  link: https://twitter.com/Decred_RU
-  description: "Twitter: Decred Russia"
--
-  link: https://twitter.com/Decred_BR
-  description: "Twitter: Decred Brasil"
--
-  link: https://twitter.com/Decred_PL
-  description: "Twitter: Decred Poland"
--
-  link: https://twitter.com/Decred_JPN
-  description: "Twitter: Decred Japan"
--
-  link: https://twitter.com/DecredArabia
-  description: "Twitter: Decred Arabia"
--
-  link: https://www.instagram.com/decred_es
-  description: instagram.com/decred_es
--
-  link: https://www.facebook.com/groups/decredbrasil
-  description: facebook.com/groups/decredbrasil
+  description: twitter.com/DecredIndia

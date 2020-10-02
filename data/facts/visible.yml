@@ -12,3 +12,7 @@
 -
   link: https://docs.decred.org/img/ticket_voting_chart.svg
   description: Ticket Voting Days
+-
+  link: https://www.reddit.com/r/decred/comments/78hzyl/yearly_comparison_of_decred_and_bitcoin_estimated/
+  description: DCR vs BTC supply
+  newLink: true

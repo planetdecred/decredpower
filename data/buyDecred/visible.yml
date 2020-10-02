@@ -5,11 +5,18 @@
   link: https://www.sequoir.com/
   description: sequoir.com (USD-DCR)
 -
-  link: https://binance.com/en/trade/DCR_BTC
-  description: binance.com/en/trade/DCR_BTC
--
-  link: https://www.binance.com/en/orderbook/DCR_BTC
-  description: binance.com/en/orderbook/DCR_BTC
+  exchange: binance.com
+  pars: 
+    -
+      par: DCR-BTC
+      link: https://www.binance.com/en/trade/DCR_BTC
+    -
+      par: DCR-USDT
+      link: https://www.binance.com/en/trade/DCR_USDT
+    -
+      par: DCR-BUSD
+      link: https://www.binance.com/en/trade/DCR_BUSD
+      lastItem: true
 - 
   exchange: bittrex.com
   pars:

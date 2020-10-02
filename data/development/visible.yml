@@ -6,16 +6,22 @@
   description: github.com/decred
 -
   link: https://github.com/decred/dcrd/blob/master/docs/code_contribution_guidelines.md
-  description: "GitHub: Contribution Guidelines"
+  description: Code Contribution Guidelines
 -
   link: https://devdocs.decred.org
   description: devdocs.decred.org
+-
+  link: https://docs.decred.org
+  description: docs.decred.org
+-
+  link: https://docs.decred.org/governance/decred-constitution
+  description: docs.decred.org/governance/decred-constitution
 -
   link: https://decred.org/brand
   description: decred.org/brand
 -
   link: https://github.com/decred/dcrdesign/releases
-  description: Decred Design Releases
+  description: github.com/decred/dcrdesign/releases
 -
   link: http://www.github.com/raedahgroup
   description: github.com/raedahgroup
@@ -33,7 +39,7 @@
   description: github.com/matheusd/bip39-to-dcr-seed
 -
   link: https://github.com/decredcommunity/events/tree/master/reports
-  description: Decred Community Event Reports
+  description: github.com/decredcommunity/events/tree/master/reports
 -
-  link: https://decred.github.io/pi-ui/
+  link: https://decred.github.io/pi-ui
   description: decred.github.io/pi-ui
