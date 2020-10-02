@@ -27,7 +27,7 @@
   description: dcr.tokenview.com
 -
   link: https://coinmetrics.io/correlation-charts/#assets=btc-dcr,dcr-dxy,dcr-gld,dcr-s&p,dcr-vix
-  description: coinmetrics.io/correlation-charts/#assets=btc-dcr,dcr-dxy,dcr-gld,dcr-s&p,dcr-vix
+  description: Correlation Charts on Coinmetrics
 -
   link: https://lunarcrush.com/coins/dcr/decred?
   description: lunarcrush.com/coins/dcr/decred?
@@ -39,10 +39,10 @@
   description: cryptoslate.com/coins/decred
 -
   link: https://bravenewcoin.com/data-and-charts/assets/DCR/price
-  description: bravenewcoin.com/data-and-charts/assets/DCR/price
+  description: Data and Charts on Bravenewcoin
 -
   link: https://bravenewcoin.com/insights/price-analysis/Decred
-  description: bravenewcoin.com/insights/price-analysis/Decred
+  description: Price Analysis on Bravenewcoin
 -
   link: https://whattomine.com/coins/152-dcr-blake-14r
   description: whattomine.com/coins/152-dcr-blake-14r
@@ -53,8 +53,8 @@
   link: http://d3c.red
   description: d3c.red
 -
-  link: https://charts.dcr.farm/d/000000014/nodes?inspect=3&inspectTab=data&viewPanel=3&orgId=1&from=now-2y&to=now
-  description: charts.dcr.farm/d/000000014/nodes?inspect=3&inspectTab=data&viewPanel=3&orgId=1&from=now-2y&to=now
+  link: https://charts.dcr.farm/d/000000014/nodes?orgId=1&from=now-2y&to=now
+  description: Nodes on dcr.farm
 -
   link: https://infinitysearch.co/results?q=decred
   description: infinitysearch.co/results?q=decred
