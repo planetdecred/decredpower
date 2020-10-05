@@ -16,13 +16,28 @@
 - 
   link: https://dcrdata.org/visualblocks
   description: dcrdata.org/visualblocks
+- 
+  link: http://www.dcrstats.com
+  description: dcrstats.com
+- 
+  link: http://www.dcrstats.com/subsidy
+  description: dcrstats.com/subsidy
 -
   link: https://dcronchain.com/
   description: dcronchain.com
   newLink: true
 - 
+  link: https://explorer.dcr.farm
+  description: explorer.dcr.farm
+- 
+  link: https://charts.dcr.farm/
+  description: charts.dcr.farm
+- 
   link: http://www.coinmarketcap.com/currencies/decred
   description: coinmarketcap.com/currencies/decred
+- 
+  link: https://coingecko.com/en/coins/decred
+  description: coingecko.com/en/coins/decred
 -
   link: https://www.coinbase.com/price/decred
   description: coinbase.com/price/decred
@@ -32,23 +47,8 @@
   description: coin360.com/coin/decred-dcr
   newLink: true
 - 
-  link: http://www.dcrstats.com
-  description: dcrstats.com
-- 
-  link: https://explorer.dcr.farm
-  description: explorer.dcr.farm
-- 
-  link: https://charts.dcr.farm/
-  description: charts.dcr.farm
-- 
-  link: http://www.dcrstats.com/subsidy
-  description: dcrstats.com/subsidy
-- 
   link: https://coindesk.com/price/decred
   description: coindesk.com/price/decred
-- 
-  link: https://coingecko.com/en/coins/decred
-  description: coingecko.com/en/coins/decred
 -  
   link: https://www.tradingview.com/markets/cryptocurrencies/prices-decred
   description: tradingview.com/markets/cryptocurrencies/prices-decred
@@ -64,11 +64,11 @@
   description: bitcoindominance.com
   newLink: true
 - 
-  link: https://trends.google.com/trends/explore?q=decred
-  description: trends.google.com/trends/explore?q=decred
-- 
   link: https://www.nicehash.com/algorithm/decred
   description: nicehash.com/algorithm/decred
 -
   link: https://atomicwallet.io/decred-price
   description: atomicwallet.io/decred-price
+- 
+  link: https://trends.google.com/trends/explore?q=decred
+  description: trends.google.com/trends/explore?q=decred

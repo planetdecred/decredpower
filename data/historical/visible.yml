@@ -5,11 +5,15 @@
   link: https://forum.decred.org
   description: forum.decred.org
 -
-  link: https://conformal.com/the-bitcoin-consensus-red-herring
-  description: conformal.com/the-bitcoin-consensus-red-herring
+  link: https://bitcointalk.org/index.php?topic=169204.msg1760397
+  description: Tacotime whitepaper draft
+  newLink: true
 -
-  link: https://conformal.com/btcd-a-bitcoind-alternative-written-in-go/
-  description: "Btcd: a Bitcoind Alternative Written in Go"
+  link: https://explorer.dcrdata.org/block/0
+  description: Genesis Block
+-
+  link: https://explorer.dcrdata.org/block/1
+  description: explorer.dcrdata.org/block/1
 -
   link: https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges
   description: blog.companyzero.com/2015/11/bitcoins-biggest-challenges
@@ -23,18 +27,14 @@
   link: https://blog.companyzero.com/2016/01/decred-testnet-binaries-code-and-docs
   description: blog.companyzero.com/2016/01/decred-testnet-binaries-code-and-docs
 -
-  link: https://explorer.dcrdata.org/block/0
-  description: Genesis Block
+  link: https://conformal.com/the-bitcoin-consensus-red-herring
+  description: conformal.com/the-bitcoin-consensus-red-herring
 -
-  link: https://explorer.dcrdata.org/block/1
-  description: explorer.dcrdata.org/block/1
+  link: https://conformal.com/btcd-a-bitcoind-alternative-written-in-go/
+  description: "Btcd: a Bitcoind Alternative Written in Go"
 -
   link: https://web.archive.org/web/20200315232833/https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/
   description: "Decred: Where Did It All Begin?"
 -
   link: https://www.youtube.com/watch?v=Rin8cfA9wJI
   description: Decred Intro (2016)
--
-  link: https://bitcointalk.org/index.php?topic=169204.msg1760397
-  description: Tacotime whitepaper draft
-  newLink: true

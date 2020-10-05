@@ -68,14 +68,14 @@
   description: staking.com/decred
   newLink: true
 -
+  link: https://coin.market/crypto/decred-dcr-coin
+  description: coin.market/crypto/decred-dcr-coin
+  newLink: true
+-
   link: https://github.com/decredcommunity/social-media-stats
   description: github.com/decredcommunity/social-media-stats
   newLink: true
 -
   link: https://github.com/decredcommunity/network-stats
   description: github.com/decredcommunity/network-stats
-  newLink: true
--
-  link: https://coin.market/crypto/decred-dcr-coin
-  description: coin.market/crypto/decred-dcr-coin
   newLink: true

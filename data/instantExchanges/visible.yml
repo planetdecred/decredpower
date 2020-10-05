@@ -1,9 +1,9 @@
 -
-  link: https://flyp.me
-  description: flyp.me
--
   link: https://www.sequoir.com/swap-pro/
   description: sequoir.com/swap-pro/
+-
+  link: https://flyp.me
+  description: flyp.me
 -
   link: https://changenow.io/?from=btc&to=dcr
   description: changenow.io/?from=btc&to=dcr
@@ -11,20 +11,31 @@
   link: https://coinswitch.co
   description: coinswitch.co
 -
-  link: https://swapspace.co/?from=btc&to=dcr&amount=0.1
-  description: swapspace.co/?from=btc&to=dcr&amount=0.1
+  link: https://changelly.com
+  description: changelly.com
+-
+  link: https://www.abra.com
+  description: abra.com
+-
+  link: https://global.transak.com/?defaultCryptoCurrency=DCR
+  description: global.transak.com/?defaultCryptoCurrency=DCR
+  newLink: true
+-
+  link: https://coindcx.com/insta/buy/dcr
+  description: coindcx.com/insta/buy/dcr
+  newLink: true
 -
   link: https://simpleswap.io
   description: simpleswap.io
 -
-  link: https://changelly.com
-  description: changelly.com
+  link: https://stealthex.io
+  description: stealthex.io
+-
+  link: https://swapspace.co/?from=btc&to=dcr&amount=0.1
+  description: swapspace.co/?from=btc&to=dcr&amount=0.1
 -
   link: https://godex.io
   description: godex.io
 -
   link: https://evercoin.com
   description: evercoin.com
--
-  link: https://stealthex.io
-  description: stealthex.io

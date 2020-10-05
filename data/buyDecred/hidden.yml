@@ -1,16 +1,19 @@
 -
+  exchange: kucoin.com
+  pars:
+    - 
+      par: DCR-BTC
+      link: https://trade.kucoin.com/DCR-BTC
+    -
+      par: DCR-ETH
+      link: https://trade.kucoin.com/DCR-ETH
+      lastItem: true
+-
   exchange: poloniex.com
   pars: 
     -
       par: BTC-DCR
       link: https://poloniex.com/exchange#btc_dcr
-      lastItem: true
--
-  exchange: Kucoin Spot
-  pars: 
-    -
-      par: DCR-BTC
-      link: https://trade.kucoin.com/spot/DCR-BTC
       lastItem: true
 -
   exchange: account.bitvavo.com
@@ -33,6 +36,16 @@
       par: DCR-BTC
       link: https://coindcx.com/trade/DCRBTC
       lastItem: true
+-
+  exchange: catalx.com
+  pars:
+    -
+      par: BTC-DCR
+      link: https://catalx.io/trade/BTC-DCR
+    -
+      par: USDT-DCR    
+      link: https://catalx.io/trade/USDT-DCR
+      lastItem: true
 - 
   exchange: Bisq P2P
   pars:
@@ -40,16 +53,6 @@
       par: DCR-BTC
       link: https://bisq.network/markets/?currency=dcr_btc
       lastItem: true
-- 
-  exchange: upbit.com
-  pars:
-    -
-      par: KRW-DCR
-      link: https://upbit.com/exchange?code=CRIX.UPBIT.KRW-DCR
-      lastItem: true
 -
   link: https://www.kaiserex.com
   description: kaiserex.com
--
-  link: https://www.abra.com
-  description: abra.com

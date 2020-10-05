@@ -5,21 +5,31 @@
   link: https://www.reddit.com/r/decred
   description: reddit.com/r/decred
 -
-  link: https://www.reddit.com/r/DCR
-  description: reddit.com/r/DCR
--
-  link: https://www.linkedin.com/company/decredproject/
-  description: linkedin.com/company/decredproject
--
-  link: https://www.linkedin.com/showcase/decred-politeia/
-  description: linkedin.com/showcase/decred-politeia
--
   link: https://t.me/decred
   description: t.me/decred
 - 
   link: https://t.me/DecredSupport
   description: t.me/decredsupport
   newLink: true
+-
+  link: https://twitter.com/decredproject
+  description: twitter.com/decredproject
+-
+  link: https://www.instagram.com/decredproject/
+  description: instagram.com/decredproject
+  newLink: true
+-
+  link: https://www.facebook.com/decredproject
+  description: facebook.com/decredproject
+-
+  link: https://www.linkedin.com/company/decredproject/
+  description: linkedin.com/company/decredproject
+-
+  link: https://www.reddit.com/r/DCR
+  description: reddit.com/r/DCR
+-
+  link: https://www.linkedin.com/showcase/decred-politeia/
+  description: linkedin.com/showcase/decred-politeia
 -
   link: https://t.me/DecredES
   description: t.me/DecredES
@@ -37,11 +47,8 @@
   link: https://t.me/addstickers/dcrstakey
   description: t.me/addstickers/dcrstakey
 -
-  link: https://twitter.com/decredproject
-  description: "Twitter: Decred Project"
--
-  link: https://twitter.com/Decred_ES
-  description: "Twitter: Decred en Español"
+  link: https://twitter.com/search?q=decred
+  description: twitter.com/search?q=decred
 -
   link: https://twitter.com/thedecreddigest
   description: twitter.com/thedecreddigest
@@ -49,14 +56,17 @@
   link: https://twitter.com/decreddrive
   description: twitter.com/decreddrive
 -
-  link: https://twitter.com/DecredIreland
-  description: twitter.com/DecredIreland
+  link: https://twitter.com/Decred_ES
+  description: "Twitter: Decred en Español"
 -
   link: https://twitter.com/DecredAustralia
   description: twitter.com/DecredAustralia
 -
-  link: https://twitter.com/DecredVietnam
-  description: twitter.com/DecredVietnam
+  link: https://twitter.com/DecredIreland
+  description: twitter.com/DecredIreland
 -
   link: https://twitter.com/DecredIndia
   description: twitter.com/DecredIndia
+-
+  link: https://twitter.com/decredfrance
+  description: twitter.com/decredfrance

@@ -2,20 +2,17 @@
   link: https://xaur.github.io/decred-news
   description: Decred Journal
 -
-  link: https://medium.com/decred/journals/home
-  description: medium.com/decred/journals/home
--
-  link: https://medium.com/decred-es
-  description: medium.com/decred-es
--
   link: https://blog.decred.org
   description: blog.decred.org
 -
-  link: https://medium.com/politeia-digest
-  description: medium.com/politeia-digest
--
   link: https://medium.com/decred
   description: medium.com/decred
+-
+  link: https://medium.com/decred/journals/home
+  description: medium.com/decred/journals/home
+-
+  link: https://medium.com/politeia-digest
+  description: medium.com/politeia-digest
 -
   link: https://medium.com/@decreddrive
   description: medium.com/@decreddrive
@@ -51,3 +48,6 @@
   link: https://thedecreddigest.wordpress.com/
   description: thedecreddigest.wordpress.com
   newLink: true
+-
+  link: https://medium.com/decred-es
+  description: medium.com/decred-es

@@ -1,15 +1,21 @@
 -
-  link: https://medium.com/decred/running-a-decred-raspberry-pi-node-ac605b70c652
-  description: Running a Raspberry Pi Node
--
   link: https://docs.decred.org/getting-started/articles-and-media
   description: docs.decred.org/getting-started/articles-and-media
+-
+  link: https://medium.com/decred/running-a-decred-raspberry-pi-node-ac605b70c652
+  description: Running a Raspberry Pi Node
 -
   link: https://ournetwork.substack.com/p/our-network-issue-27
   description: "Our Network: Issue #27 (part 2)"
 -
+  link: https://medium.com/@Ammarooni/why-we-need-decred-an-inclusive-approach-to-sound-money-db2f990c107b
+  description: Why We Need Decred
+-
   link: https://cryptocommons.cc/governance/decred
   description: cryptocommons.cc/governance/decred
+-
+  link: https://github.com/buck54321/dcr-research/blob/master/paper/Attack-cost%20estimation.pdf
+  description: Attack Cost Estimation
 -
   link: https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
   description: Fork Resistance
@@ -20,17 +26,11 @@
   link: https://medium.com/the-capital/project-rundown-interview-with-decred-on-the-capital-8b647919a339
   description: Interview on The Capital
 -
-  link: https://medium.com/@Ammarooni/why-we-need-decred-an-inclusive-approach-to-sound-money-db2f990c107b
-  description: Why We Need Decred
--
   link: https://medium.com/coinmonks/comparing-double-spend-resistance-decred-vs-bitcoin-part-1-330c8081b2a9
   description: Comparing double spend resistance Decred vs Bitcoin
 -
   link: https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
   description: Decred’s hybrid protocol, a superior deterrent to majority attacks
--
-  link: https://github.com/buck54321/dcr-research/blob/master/paper/Attack-cost%20estimation.pdf
-  description: Attack Cost Estimation
 - 
   link: https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6
   description: "Decred privacy: taking the long road"

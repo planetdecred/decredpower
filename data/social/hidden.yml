@@ -1,47 +1,44 @@
 -
-  link: https://twitter.com/decredfrance
-  description: twitter.com/decredfrance
--
-  link: https://twitter.com/Decred_ITA
-  description: "Twitter: Decred Italy"
--
-  link: https://twitter.com/Decred_CA
-  description: "Twitter: Decred Canada"
--
-  link: https://twitter.com/Decred_RU
-  description: "Twitter: Decred Russia"
--
-  link: https://twitter.com/Decred_BR
-  description: "Twitter: Decred Brasil"
--
-  link: https://twitter.com/Decred_PL
-  description: "Twitter: Decred Poland"
--
-  link: https://twitter.com/Decred_JPN
-  description: "Twitter: Decred Japan"
+  link: https://twitter.com/DecredVietnam
+  description: twitter.com/DecredVietnam
 -
   link: https://twitter.com/DecredArabia
   description: "Twitter: Decred Arabia"
 -
-  link: https://twitter.com/dcrStakeyClub
-  description: twitter.com/dcrStakeyClub
+  link: https://twitter.com/Decred_CA
+  description: "Twitter: Decred Canada"
+-
+  link: https://twitter.com/Decred_BR
+  description: "Twitter: Decred Brasil"
+-
+  link: https://twitter.com/Decred_ITA
+  description: "Twitter: Decred Italy"
+-
+  link: https://twitter.com/Decred_JPN
+  description: "Twitter: Decred Japan"
+-
+  link: https://twitter.com/Decred_PL
+  description: "Twitter: Decred Poland"
+-
+  link: https://twitter.com/Decred_RU
+  description: "Twitter: Decred Russia"
+-
+  link: https://twitter.com/_Checkmatey_
+  description: twitter.com/_Checkmatey_
   newLink: true
 -
   link: https://twitter.com/ammarooni
   description: twitter.com/ammarooni
   newLink: true
 -
-  link: https://twitter.com/search?q=decred
-  description: twitter.com/search?q=decred
+  link: https://twitter.com/DecredDragon
+  description: twitter.com/DecredDragon
+-
+  link: https://twitter.com/coveryfire7777
+  description: twitter.com/coveryfire7777 (exitus)
 -
   link: https://twitter.com/tokeytrades
   description: twitter.com/tokeytrades
--
-  link: https://twitter.com/decredexplorer
-  description: twitter.com/decredexplorer
--
-  link: https://twitter.com/AllThingsDecred
-  description: twitter.com/AllThingsDecred
 -
   link: https://twitter.com/DCRtheSOV
   description: twitter.com/DCRtheSOV
@@ -49,15 +46,15 @@
   link: https://twitter.com/yostatusdcr
   description: twitter.com/yostatusdcr
 -
-  link: https://twitter.com/coveryfire7777
-  description: twitter.com/coveryfire7777 (exitus)
--
-  link: https://twitter.com/DecredDragon
-  description: twitter.com/DecredDragon
--
-  link: https://www.instagram.com/decredproject/
-  description: instagram.com/decredproject
+  link: https://twitter.com/dcrStakeyClub
+  description: twitter.com/dcrStakeyClub
   newLink: true
+-
+  link: https://twitter.com/decredexplorer
+  description: twitter.com/decredexplorer
+-
+  link: https://twitter.com/AllThingsDecred
+  description: twitter.com/AllThingsDecred
 -
   link: https://www.instagram.com/decred_es
   description: instagram.com/decred_es
@@ -69,17 +66,14 @@
   description: instagram.com/official_cryptos
   newLink: true
 -
-  link: https://www.facebook.com/decredproject
-  description: facebook.com/decredproject
--
   link: https://www.facebook.com/groups/decredbrasil
   description: facebook.com/groups/decredbrasil
 -
-  link: https://facebook.com/decredESP
-  description: facebook.com/decredESP
--
   link: https://facebook.com/groups/decredinternational
   description: facebook.com/groups/decredinternational
+-
+  link: https://facebook.com/decredESP
+  description: facebook.com/decredESP
 - 
   link: https://www.facebook.com/DecredArabia
   description: facebook.com/DecredArabia
@@ -87,7 +81,6 @@
 - 
   link: https://www.facebook.com/decredau/
   description: facebook.com/decredau
-
 -
   link: https://decredible.com
   description: decredible.com
