@@ -5,6 +5,10 @@
   link: https://www.instagram.com/anarchyonthe
   description: "Instagram: Decred Art"
 -
+  link: https://lottiefiles.com/user/5870
+  description: Decred animations by LottieFiles
+  newLink: true
+-
   link: https://github.com/decred/dcrdesign/issues/31
   description: Stakey Sticker Set
 -
@@ -16,6 +20,14 @@
 -
   link: https://twitter.com/AGNFAB1/status/1199788339404181504
   description: Banking on Decred
+-
+  link: https://twitter.com/TheBochinchero/status/1317804379353894918
+  description: "Revolution: Wake Up and Stake!"
+  newLink: true
+-
+  link: https://twitter.com/plabarta_/status/1317677395936268290/photo/1
+  description: Autonomous & Free
+  newLink: true
 -
   link: https://twitter.com/AGNFAB1/status/1220091425737580544
   description: Fire and Water
