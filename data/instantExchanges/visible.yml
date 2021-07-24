@@ -1,4 +1,7 @@
 -
+  link: https://swapswop.io
+  description: swapswop.io
+-
   link: https://instaex.io/?to=dcr
   description: instaex.io
 -
@@ -14,9 +17,6 @@
   link: https://swapspace.co/?from=btc&to=dcr&amount=0.1
   description: swapspace.co
   newLink: true
--
-  link: https://swapswop.io
-  description: swapswop.io
 -
   link: https://simpleswap.io
   description: simpleswap.io
